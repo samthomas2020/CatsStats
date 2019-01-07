@@ -1,10 +1,8 @@
 from selenium import webdriver
 from bs4 import BeautifulSoup
-import pandas as pd
+import datetime
 import time
-import csv
-import os
-
+import sys
 """
 Author: Sam Thomas
 Copyright 2018 (c)
@@ -14,83 +12,108 @@ This is a scraping program that creates a database that generates a CSV with
 the Tournament Challenge Picks from a specified ESPN bracket group.
 """
 
-def get_site(url):
-    browser = webdriver.Firefox()
-    browser.get(url)
-    time.sleep(4)
-    html = browser.execute_script('return document.body.innerHTML')
-    browser.close()
-    return BeautifulSoup(html, 'html.parser')
+def get_pages(pages, num_urls):
+    current = pages[len(pages)/2]
+    data_start = int(current.get_attribute('data-start'))
 
-def get_users(url):
-    browser = webdriver.Firefox()
-    browser.get(url)
-    time.sleep(4)
+    if len(pages) == 0:
+        return None
+    if num_urls == data_start:
+        return current
 
-    users = []
+    if data_start > num_urls:
+        return get_pages(pages[:len(pages)/2], num_urls)
+    else:
+        return get_pages(pages[len(pages)/2:], num_urls)
 
-    count = 0
+def get_sites(num_urls):
+    new_users = []
+    
+    # launch browser
     while True:
-        html = browser.execute_script('return document.body.innerHTML')
-        soup = BeautifulSoup(html, 'html.parser')
-        users.extend(soup.find_all('td', {'class':'entryowner wProfile'}))
-
-        next = browser.find_elements_by_class_name('navigationLink')[-1]
-
-        class_name = next.get_attribute('class')
-        if 'disabled' not in class_name:
-            next.click()
-        else:
-            print count
+        browser = webdriver.Firefox()
+        try:
+            time.sleep(1)
+            browser.get('http://games.espn.com/tournament-challenge-bracket/2018/en/group?groupID=1041234')
+            time.sleep(1)
             break
+        except Exception:
+            browser.close()
+            time.sleep(2)
 
-        time.sleep(2)
+    # move browser to search from correct location
+    if num_urls > 0:
+        page = None
+        while True:
+            selenium_pages = browser.find_elements_by_class_name('navigationLink')
 
-        count += 1
+            page = get_pages(selenium_pages, num_urls)
+            if page is None:
+                selenium_pages[-2].click()
+                time.sleep(1)
+                continue
+            else:
+                page.click()
+                time.sleep(3)
+                break
+
+    # initialize the search for the provided duration, if none provided search indefinitely
+    
+    try:
+        duration = int(sys.argv[-1])
+    except ValueError:
+        duration = int(sys.maxint)
+
+    current_time = datetime.datetime.now()
+    delta = datetime.datetime.now() - current_time
+
+    try:
+        while delta.seconds < duration:
+            new_users.extend([element.get_attribute('href') for element in browser.find_elements_by_class_name('entry')])
+
+            try:
+                elements = browser.find_elements_by_class_name('navigationLink')
+                elements[-1].click()
+            except Exception:
+                break
+
+            delta = datetime.datetime.now() - current_time
+            continue
+    
+    except KeyboardInterrupt:
+        browser.close()
+        f = open('urls.txt', 'a')
+        f.write('\n'.join(new_users) + '\n')
+        f.close()
+        sys.exit()
 
     browser.close()
 
-    return users
-
-def get_data(users):
-
-    print len(users)
-    data = [get_picks(user.find('a').get('href')) for user in users[::1000]]
-    return data
-
-def get_picks(href):
-    soup = get_site('http://games.espn.com/tournament-challenge-bracket/2018/en/' + href)
-    slots = soup.find_all('div', {'class':'slots'})
-
-    df = pd.DataFrame(columns=['gameID', 'won'])
-
-    for i in range(len(slots)):
-        slotID = int(slots[i].find('div').get('data-slotindex'))/2
-
-        if slots[i].find('span', {'class':'picked eliminated incorrect'}) is not None or slots[i].find('span', {'class':'picked eliminated incorrect selectedToAdvance incorrect'}) is not None:
-            row = [slotID, 0]
-        else:
-            row = [slotID, 1]
-
-        df.loc[i] = row
-
-    return df
-
-def generate_csv(user_data):
-    f = open('tournament.csv', 'w')
-
-    writer = csv.writer(f)
-    writer.writerow(['pct'] + range(63))
-
-    for i in range(len(user_data)):
-        writer.writerow([int(float(i)/len(user_data) * 100)] + user_data[i]['won'].tolist())
-
+    f = open('urls.txt', 'a')
+    f.write('\n'.join(new_users) + '\n')
     f.close()
 
+def wrap():
+    try:
+        f = open('urls.txt', 'r')
+        urls = [line.strip() for line in f.readlines()]
+        f.close()
+    except IOError:
+        urls = []
+    
+    get_sites(len(urls))
+
+    try:
+        f = open('picks.txt', 'r')
+        picks = [line.strip() for line in f.readlines()]
+        f.close()
+    except IOError:
+        picks = []
+
+    get_picks(len(picks))
+
 def main():
-    users = get_users('http://games.espn.com/tournament-challenge-bracket/2018/en/group?groupID=1041234')
-    user_data = get_data(users)
-    generate_csv(user_data)
+    wrap()
 
 if __name__ == '__main__':
     main()

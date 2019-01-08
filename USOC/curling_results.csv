@@ -1,0 +1,772 @@
+Competition Name,Sport Name,Event (Weight Category),Gender,Match Date,Athlete 1 Name,Athlete 1 Country,Result 1,Result Value 1,Athlete 2 Name,Athlete 2 Country,Result 2,Result Value 2
+Princess Auto Elite 10,Curling,Team,Men,9/26/18,Brad Gushue,CAN,WON,4,Jason Gunnlaugson,CAN,LOST,1
+Princess Auto Elite 10,Curling,Team,Men,9/26/18,Reid Carruthers,CAN,WON,4,Brad Jacobs,CAN,LOST,3
+Princess Auto Elite 10,Curling,Team,Men,9/26/18,John Epping,CAN,WON,5,Glenn Howard,CAN,LOST,1
+Princess Auto Elite 10,Curling,Team,Men,9/27/18,Niklas Edin,SWE,LOST,1,Ross Paterson,SCO,WON,4
+Princess Auto Elite 10,Curling,Team,Men,9/27/18,Bruce Mouat,SCO,WON,4,Jason Gunnlaugson,CAN,LOST,2
+Princess Auto Elite 10,Curling,Team,Men,9/27/18,Kevin Koe,CAN,WON,3,Brad Jacobs,CAN,LOST,0
+Princess Auto Elite 10,Curling,Team,Men,9/27/18,Brad Gushue,CAN,LOST,2,Glenn Howard,CAN,WON,3
+Princess Auto Elite 10,Curling,Team,Men,9/27/18,Bruce Mouat,SCO,LOST,3,John Epping,CAN,WON,5
+Princess Auto Elite 10,Curling,Team,Men,9/27/18,Jason Gunnlaugson,CAN,LOST,1,Glenn Howard,CAN,WON,4
+Princess Auto Elite 10,Curling,Team,Men,9/27/18,Niklas Edin,SWE,LOST,1,Kevin Koe,CAN,WON,4
+Princess Auto Elite 10,Curling,Team,Men,9/27/18,Reid Carruthers,CAN,WON,5,Ross Paterson,SCO,LOST,2
+Princess Auto Elite 10,Curling,Team,Men,9/28/18,Bruce Mouat,SCO,LOST,1,Glenn Howard,CAN,WON,4
+Princess Auto Elite 10,Curling,Team,Men,9/28/18,Brad Jacobs,CAN,WON,4,Ross Paterson,SCO,LOST,1
+Princess Auto Elite 10,Curling,Team,Men,9/28/18,Niklas Edin,SWE,LOST,2,Reid Carruthers,CAN,WON,3
+Princess Auto Elite 10,Curling,Team,Men,9/28/18,Brad Gushue,CAN,WON,4,John Epping,CAN,LOST,0
+Princess Auto Elite 10,Curling,Team,Men,9/28/18,Kevin Koe,CAN,WON,5,Ross Paterson,SCO,LOST,2
+Princess Auto Elite 10,Curling,Team,Men,9/28/18,Jason Gunnlaugson,CAN,WON,3,John Epping,CAN,LOST,2
+Princess Auto Elite 10,Curling,Team,Men,9/28/18,Brad Gushue,CAN,WON,2,Bruce Mouat,SCO,LOST,0
+Princess Auto Elite 10,Curling,Team,Men,9/28/18,Kevin Koe,CAN,LOST,1,Reid Carruthers,CAN,WON,2
+Princess Auto Elite 10,Curling,Team,Men,9/28/18,Niklas Edin,SWE,LOST,0,Brad Jacobs,CAN,WON,3
+Princess Auto Elite 10,Curling,Team,Men,9/29/18,Glenn Howard,CAN,LOST,0,John Epping,CAN,WON,4
+Princess Auto Elite 10,Curling,Team,Men,9/29/18,Kevin Koe,CAN,LOST,1,Brad Jacobs,CAN,WON,4
+Princess Auto Elite 10,Curling,Team,Men,9/29/18,Reid Carruthers,CAN,WON,3,John Epping,CAN,LOST,2
+Princess Auto Elite 10,Curling,Team,Men,9/29/18,Brad Gushue,CAN,WON,4,Brad Jacobs,CAN,LOST,2
+Princess Auto Elite 10,Curling,Team,Men,9/30/18,Reid Carruthers,CAN,LOST,1,Brad Gushue,CAN,WON,2
+Princess Auto Elite 10,Curling,Team,Women,9/26/18,Jennifer Jones,CAN,WON,4,Chelsea Carey,CAN,LOST,0
+Princess Auto Elite 10,Curling,Team,Women,9/26/18,Anna Hasselborg,SWE,WON,4,Jamie Sinclair,USA,LOST,1
+Princess Auto Elite 10,Curling,Team,Women,9/27/18,Nina Roth,USA,LOST,2,Casey Scheidegger,CAN,WON,3
+Princess Auto Elite 10,Curling,Team,Women,9/27/18,Tracy Fleury,CAN,LOST,3,Laura Walker,CAN,WON,4
+Princess Auto Elite 10,Curling,Team,Women,9/27/18,Rachel Homan,CAN,WON,4,Jamie Sinclair,USA,LOST,2
+Princess Auto Elite 10,Curling,Team,Women,9/27/18,Tracy Fleury,CAN,LOST,0,Chelsea Carey,CAN,WON,4
+Princess Auto Elite 10,Curling,Team,Women,9/27/18,Jennifer Jones,CAN,WON,5,Silvana Tirinzoni,SUI,LOST,2
+Princess Auto Elite 10,Curling,Team,Women,9/27/18,Anna Hasselborg,SWE,WON,3,Casey Scheidegger,CAN,LOST,1
+Princess Auto Elite 10,Curling,Team,Women,9/27/18,Jennifer Jones,CAN,WON,4,Laura Walker,CAN,LOST,1
+Princess Auto Elite 10,Curling,Team,Women,9/27/18,Rachel Homan,CAN,LOST,0,Nina Roth,USA,WON,3
+Princess Auto Elite 10,Curling,Team,Women,9/27/18,Chelsea Carey,CAN,LOST,2,Silvana Tirinzoni,SUI,WON,4
+Princess Auto Elite 10,Curling,Team,Women,9/28/18,Laura Walker,CAN,WON,3,Chelsea Carey,CAN,LOST,2
+Princess Auto Elite 10,Curling,Team,Women,9/28/18,Jamie Sinclair,USA,WON,4,Nina Roth,USA,LOST,2
+Princess Auto Elite 10,Curling,Team,Women,9/28/18,Tracy Fleury,CAN,WON,3,Silvana Tirinzoni,SUI,LOST,2
+Princess Auto Elite 10,Curling,Team,Women,9/28/18,Anna Hasselborg,SWE,WON,3,Nina Roth,USA,LOST,1
+Princess Auto Elite 10,Curling,Team,Women,9/28/18,Rachel Homan,CAN,WON,4,Casey Scheidegger,CAN,LOST,3
+Princess Auto Elite 10,Curling,Team,Women,9/28/18,Laura Walker,CAN,LOST,2,Silvana Tirinzoni,SUI,WON,4
+Princess Auto Elite 10,Curling,Team,Women,9/28/18,Jennifer Jones,CAN,WON,4,Tracy Fleury,CAN,LOST,3
+Princess Auto Elite 10,Curling,Team,Women,9/28/18,Anna Hasselborg,SWE,WON,4,Rachel Homan,CAN,LOST,3
+Princess Auto Elite 10,Curling,Team,Women,9/28/18,Jamie Sinclair,USA,LOST,1,Casey Scheidegger,CAN,WON,4
+Princess Auto Elite 10,Curling,Team,Women,9/29/18,Casey Scheidegger,CAN,LOST,1,Rachel Homan,CAN,WON,3
+Princess Auto Elite 10,Curling,Team,Women,9/29/18,Silvana Tirinzoni,SUI,WON,3,Laura Walker,CAN,LOST,1
+Princess Auto Elite 10,Curling,Team,Women,9/29/18,Anna Hasselborg,SWE,WON,3,Rachel Homan,CAN,LOST,2
+Princess Auto Elite 10,Curling,Team,Women,9/29/18,Jennifer Jones,CAN,LOST,2,Silvana Tirinzoni,SUI,WON,3
+Princess Auto Elite 10,Curling,Team,Women,9/30/18,Anna Hasselborg,SWE,WON,4,Silvana Tirinzoni,SUI,LOST,0
+Canadian Beef Masters of Curling,Curling,Team,Men,10/23/18,Glenn Howard,CAN,LOST,2,Jamie Murphy,CAN,WON,6
+Canadian Beef Masters of Curling,Curling,Team,Men,10/23/18,John Shuster,USA,WON,8,Matt Dunstone,CAN,LOST,7
+Canadian Beef Masters of Curling,Curling,Team,Men,10/24/18,Niklas Edin,SWE,WON,7,Ross Paterson,SCO,LOST,3
+Canadian Beef Masters of Curling,Curling,Team,Men,10/24/18,Bruce Mouat,SCO,WON,7,Steffen Walstad,NOR,LOST,2
+Canadian Beef Masters of Curling,Curling,Team,Men,10/24/18,Jason Gunnlaugson,CAN,LOST,4,Reid Carruthers,CAN,WON,8
+Canadian Beef Masters of Curling,Curling,Team,Men,10/24/18,John Epping,CAN,WON,7,Yannick Schwaller,SUI,LOST,5
+Canadian Beef Masters of Curling,Curling,Team,Men,10/24/18,Kevin Koe,CAN,WON,8,Jamie Murphy,CAN,LOST,5
+Canadian Beef Masters of Curling,Curling,Team,Men,10/24/18,Bruce Mouat,SCO,WON,8,Glenn Howard,CAN,LOST,2
+Canadian Beef Masters of Curling,Curling,Team,Men,10/24/18,Brad Jacobs,CAN,LOST,3,Ross Paterson,SCO,WON,7
+Canadian Beef Masters of Curling,Curling,Team,Men,10/24/18,Brad Gushue,CAN,WON,7,Matt Dunstone,CAN,LOST,6
+Canadian Beef Masters of Curling,Curling,Team,Men,10/24/18,Jason Gunnlaugson,CAN,LOST,1,John Shuster,USA,WON,8
+Canadian Beef Masters of Curling,Curling,Team,Men,10/25/18,John Epping,CAN,WON,7,Brad Jacobs,CAN,LOST,6
+Canadian Beef Masters of Curling,Curling,Team,Men,10/25/18,Niklas Edin,SWE,WON,7,Yannick Schwaller,SUI,LOST,4
+Canadian Beef Masters of Curling,Curling,Team,Men,10/25/18,Kevin Koe,CAN,WON,8,Steffen Walstad,NOR,LOST,3
+Canadian Beef Masters of Curling,Curling,Team,Men,10/25/18,Reid Carruthers,CAN,WON,5,John Shuster,USA,LOST,4
+Canadian Beef Masters of Curling,Curling,Team,Men,10/25/18,John Epping,CAN,LOST,7,Ross Paterson,SCO,WON,8
+Canadian Beef Masters of Curling,Curling,Team,Men,10/25/18,Kevin Koe,CAN,WON,7,Glenn Howard,CAN,LOST,1
+Canadian Beef Masters of Curling,Curling,Team,Men,10/25/18,Bruce Mouat,SCO,WON,9,Jamie Murphy,CAN,LOST,3
+Canadian Beef Masters of Curling,Curling,Team,Men,10/25/18,Jason Gunnlaugson,CAN,LOST,3,Matt Dunstone,CAN,WON,7
+Canadian Beef Masters of Curling,Curling,Team,Men,10/25/18,Niklas Edin,SWE,WON,8,Brad Jacobs,CAN,LOST,2
+Canadian Beef Masters of Curling,Curling,Team,Men,10/25/18,Brad Gushue,CAN,WON,5,Reid Carruthers,CAN,LOST,2
+Canadian Beef Masters of Curling,Curling,Team,Men,10/26/18,Ross Paterson,SCO,WON,7,Yannick Schwaller,SUI,LOST,5
+Canadian Beef Masters of Curling,Curling,Team,Men,10/26/18,Steffen Walstad,NOR,LOST,2,Jamie Murphy,CAN,WON,9
+Canadian Beef Masters of Curling,Curling,Team,Men,10/26/18,Brad Gushue,CAN,LOST,4,John Shuster,USA,WON,8
+Canadian Beef Masters of Curling,Curling,Team,Men,10/26/18,Reid Carruthers,CAN,LOST,1,Matt Dunstone,CAN,WON,6
+Canadian Beef Masters of Curling,Curling,Team,Men,10/26/18,Niklas Edin,SWE,LOST,1,John Epping,CAN,WON,6
+Canadian Beef Masters of Curling,Curling,Team,Men,10/26/18,Brad Jacobs,CAN,LOST,1,Yannick Schwaller,SUI,WON,7
+Canadian Beef Masters of Curling,Curling,Team,Men,10/26/18,Steffen Walstad,NOR,LOST,2,Glenn Howard,CAN,WON,7
+Canadian Beef Masters of Curling,Curling,Team,Men,10/26/18,Kevin Koe,CAN,WON,8,Bruce Mouat,SCO,LOST,2
+Canadian Beef Masters of Curling,Curling,Team,Men,10/26/18,Brad Gushue,CAN,WON,8,Jason Gunnlaugson,CAN,LOST,3
+Canadian Beef Masters of Curling,Curling,Team,Men,10/27/18,Reid Carruthers,CAN,LOST,4,Jamie Murphy,CAN,WON,5
+Canadian Beef Masters of Curling,Curling,Team,Men,10/27/18,Matt Dunstone,CAN,WON,7,Jamie Murphy,CAN,LOST,3
+Canadian Beef Masters of Curling,Curling,Team,Men,10/27/18,Bruce Mouat,SCO,WON,9,John Shuster,USA,LOST,3
+Canadian Beef Masters of Curling,Curling,Team,Men,10/27/18,Ross Paterson,SCO,LOST,5,John Epping,CAN,WON,9
+Canadian Beef Masters of Curling,Curling,Team,Men,10/27/18,Niklas Edin,SWE,WON,4,Brad Gushue,CAN,LOST,2
+Canadian Beef Masters of Curling,Curling,Team,Men,10/27/18,Kevin Koe,CAN,WON,6,Matt Dunstone,CAN,LOST,4
+Canadian Beef Masters of Curling,Curling,Team,Men,10/28/18,Kevin Koe,CAN,WON,6,Bruce Mouat,SCO,LOST,5
+Canadian Beef Masters of Curling,Curling,Team,Men,10/28/18,John Epping,CAN,WON,8,Niklas Edin,SWE,LOST,3
+Canadian Beef Masters of Curling,Curling,Team,Men,10/28/18,Kevin Koe,CAN,LOST,4,John Epping,CAN,WON,7
+Canadian Beef Masters of Curling,Curling,Team,Women,10/23/18,Jamie Sinclair,USA,LOST,3,Satsuki Fujisawa,JPN,WON,8
+Canadian Beef Masters of Curling,Curling,Team,Women,10/23/18,Silvana Tirinzoni,SUI,LOST,4,Kaitlyn Jones,CAN,WON,7
+Canadian Beef Masters of Curling,Curling,Team,Women,10/23/18,Rachel Homan,CAN,WON,6,Tracy Fleury,CAN,LOST,2
+Canadian Beef Masters of Curling,Curling,Team,Women,10/24/18,Nina Roth,USA,LOST,5,Chelsea Carey,CAN,WON,6
+Canadian Beef Masters of Curling,Curling,Team,Women,10/24/18,Anna Hasselborg,SWE,LOST,5,Casey Scheidegger,CAN,WON,6
+Canadian Beef Masters of Curling,Curling,Team,Women,10/24/18,Eve Muirhead,SCO,LOST,4,Darcy Robertson,CAN,WON,8
+Canadian Beef Masters of Curling,Curling,Team,Women,10/24/18,Tracy Fleury,CAN,LOST,3,Kerri Einarson,CAN,WON,7
+Canadian Beef Masters of Curling,Curling,Team,Women,10/24/18,Laura Walker,CAN,LOST,6,Jamie Sinclair,USA,WON,7
+Canadian Beef Masters of Curling,Curling,Team,Women,10/24/18,Eve Muirhead,SCO,LOST,4,Nina Roth,USA,WON,8
+Canadian Beef Masters of Curling,Curling,Team,Women,10/24/18,Satsuki Fujisawa,JPN,LOST,6,Casey Scheidegger,CAN,WON,7
+Canadian Beef Masters of Curling,Curling,Team,Women,10/24/18,Jennifer Jones,CAN,WON,7,Darcy Robertson,CAN,LOST,6
+Canadian Beef Masters of Curling,Curling,Team,Women,10/24/18,Rachel Homan,CAN,WON,8,Silvana Tirinzoni,SUI,LOST,7
+Canadian Beef Masters of Curling,Curling,Team,Women,10/24/18,Kerri Einarson,CAN,LOST,5,Kaitlyn Jones,CAN,WON,6
+Canadian Beef Masters of Curling,Curling,Team,Women,10/25/18,Laura Walker,CAN,WON,7,Satsuki Fujisawa,JPN,LOST,6
+Canadian Beef Masters of Curling,Curling,Team,Women,10/25/18,Tracy Fleury,CAN,WON,8,Silvana Tirinzoni,SUI,LOST,2
+Canadian Beef Masters of Curling,Curling,Team,Women,10/25/18,Jamie Sinclair,USA,LOST,0,Casey Scheidegger,CAN,WON,4
+Canadian Beef Masters of Curling,Curling,Team,Women,10/25/18,Nina Roth,USA,LOST,2,Darcy Robertson,CAN,WON,10
+Canadian Beef Masters of Curling,Curling,Team,Women,10/25/18,Jennifer Jones,CAN,WON,11,Chelsea Carey,CAN,LOST,3
+Canadian Beef Masters of Curling,Curling,Team,Women,10/25/18,Rachel Homan,CAN,WON,8,Kerri Einarson,CAN,LOST,1
+Canadian Beef Masters of Curling,Curling,Team,Women,10/25/18,Anna Hasselborg,SWE,WON,6,Laura Walker,CAN,LOST,4
+Canadian Beef Masters of Curling,Curling,Team,Women,10/25/18,Jennifer Jones,CAN,WON,5,Eve Muirhead,SCO,LOST,3
+Canadian Beef Masters of Curling,Curling,Team,Women,10/25/18,Tracy Fleury,CAN,WON,7,Kaitlyn Jones,CAN,LOST,2
+Canadian Beef Masters of Curling,Curling,Team,Women,10/26/18,Anna Hasselborg,SWE,WON,7,Jamie Sinclair,USA,LOST,1
+Canadian Beef Masters of Curling,Curling,Team,Women,10/26/18,Kerri Einarson,CAN,WON,5,Silvana Tirinzoni,SUI,LOST,4
+Canadian Beef Masters of Curling,Curling,Team,Women,10/26/18,Darcy Robertson,CAN,LOST,4,Chelsea Carey,CAN,WON,6
+Canadian Beef Masters of Curling,Curling,Team,Women,10/26/18,Rachel Homan,CAN,LOST,5,Kaitlyn Jones,CAN,WON,6
+Canadian Beef Masters of Curling,Curling,Team,Women,10/26/18,Laura Walker,CAN,WON,6,Casey Scheidegger,CAN,LOST,4
+Canadian Beef Masters of Curling,Curling,Team,Women,10/26/18,Jennifer Jones,CAN,LOST,7,Nina Roth,USA,WON,8
+Canadian Beef Masters of Curling,Curling,Team,Women,10/26/18,Eve Muirhead,SCO,WON,4,Chelsea Carey,CAN,LOST,3
+Canadian Beef Masters of Curling,Curling,Team,Women,10/26/18,Anna Hasselborg,SWE,LOST,4,Satsuki Fujisawa,JPN,WON,5
+Canadian Beef Masters of Curling,Curling,Team,Women,10/26/18,Laura Walker,CAN,LOST,2,Tracy Fleury,CAN,WON,9
+Canadian Beef Masters of Curling,Curling,Team,Women,10/26/18,Satsuki Fujisawa,JPN,LOST,3,Darcy Robertson,CAN,WON,6
+Canadian Beef Masters of Curling,Curling,Team,Women,10/27/18,Anna Hasselborg,SWE,WON,7,Kerri Einarson,CAN,LOST,2
+Canadian Beef Masters of Curling,Curling,Team,Women,10/27/18,Chelsea Carey,CAN,WON,6,Nina Roth,USA,LOST,3
+Canadian Beef Masters of Curling,Curling,Team,Women,10/27/18,Casey Scheidegger,CAN,WON,6,Tracy Fleury,CAN,LOST,4
+Canadian Beef Masters of Curling,Curling,Team,Women,10/27/18,Jennifer Jones,CAN,LOST,4,Anna Hasselborg,SWE,WON,8
+Canadian Beef Masters of Curling,Curling,Team,Women,10/27/18,Rachel Homan,CAN,WON,8,Darcy Robertson,CAN,LOST,3
+Canadian Beef Masters of Curling,Curling,Team,Women,10/27/18,Kaitlyn Jones,CAN,LOST,3,Chelsea Carey,CAN,WON,7
+Canadian Beef Masters of Curling,Curling,Team,Women,10/28/18,Casey Scheidegger,CAN,LOST,4,Anna Hasselborg,SWE,WON,8
+Canadian Beef Masters of Curling,Curling,Team,Women,10/28/18,Rachel Homan,CAN,WON,6,Chelsea Carey,CAN,LOST,3
+Canadian Beef Masters of Curling,Curling,Team,Women,10/28/18,Anna Hasselborg,SWE,WON,8,Rachel Homan,CAN,LOST,7
+GSOC Tour Challenge Tier 1,Curling,Team,Men,11/6/18,Glenn Howard,CAN,WON,9,Braden Calvert,CAN,LOST,2
+GSOC Tour Challenge Tier 1,Curling,Team,Men,11/6/18,Brad Gushue,CAN,WON,7,Rich Ruohonen,USA,LOST,4
+GSOC Tour Challenge Tier 1,Curling,Team,Men,11/6/18,John Shuster,USA,WON,6,Matt Dunstone,CAN,LOST,3
+GSOC Tour Challenge Tier 1,Curling,Team,Men,11/7/18,Niklas Edin,SWE,LOST,4,Peter De Cruz,SUI,WON,5
+GSOC Tour Challenge Tier 1,Curling,Team,Men,11/7/18,Jason Gunnlaugson,CAN,LOST,4,Rich Ruohonen,USA,WON,7
+GSOC Tour Challenge Tier 1,Curling,Team,Men,11/7/18,Reid Carruthers,CAN,LOST,5,John Shuster,USA,WON,7
+GSOC Tour Challenge Tier 1,Curling,Team,Men,11/7/18,John Epping,CAN,WON,8,Ross Paterson,SCO,LOST,5
+GSOC Tour Challenge Tier 1,Curling,Team,Men,11/7/18,Brad Jacobs,CAN,WON,5,Brendan Bottcher,CAN,LOST,4
+GSOC Tour Challenge Tier 1,Curling,Team,Men,11/7/18,Kevin Koe,CAN,WON,6,Braden Calvert,CAN,LOST,3
+GSOC Tour Challenge Tier 1,Curling,Team,Men,11/7/18,Brad Gushue,CAN,WON,10,John Epping,CAN,LOST,8
+GSOC Tour Challenge Tier 1,Curling,Team,Men,11/7/18,Niklas Edin,SWE,LOST,4,Matt Dunstone,CAN,WON,5
+GSOC Tour Challenge Tier 1,Curling,Team,Men,11/7/18,Brendan Bottcher,CAN,WON,5,Glenn Howard,CAN,LOST,4
+GSOC Tour Challenge Tier 1,Curling,Team,Men,11/8/18,Peter De Cruz,SUI,WON,8,Reid Carruthers,CAN,LOST,3
+GSOC Tour Challenge Tier 1,Curling,Team,Men,11/8/18,Jason Gunnlaugson,CAN,LOST,4,Ross Paterson,SCO,WON,8
+GSOC Tour Challenge Tier 1,Curling,Team,Men,11/8/18,Brad Jacobs,CAN,WON,5,Braden Calvert,CAN,LOST,3
+GSOC Tour Challenge Tier 1,Curling,Team,Men,11/8/18,Niklas Edin,SWE,LOST,3,John Shuster,USA,WON,4
+GSOC Tour Challenge Tier 1,Curling,Team,Men,11/8/18,Kevin Koe,CAN,LOST,1,Brendan Bottcher,CAN,WON,8
+GSOC Tour Challenge Tier 1,Curling,Team,Men,11/8/18,Reid Carruthers,CAN,WON,5,Matt Dunstone,CAN,LOST,2
+GSOC Tour Challenge Tier 1,Curling,Team,Men,11/8/18,Brad Jacobs,CAN,WON,5,Glenn Howard,CAN,LOST,1
+GSOC Tour Challenge Tier 1,Curling,Team,Men,11/8/18,John Epping,CAN,LOST,4,Rich Ruohonen,USA,WON,5
+GSOC Tour Challenge Tier 1,Curling,Team,Men,11/8/18,Brad Gushue,CAN,WON,6,Jason Gunnlaugson,CAN,LOST,1
+GSOC Tour Challenge Tier 1,Curling,Team,Men,11/9/18,Ross Paterson,SCO,LOST,5,Rich Ruohonen,USA,WON,10
+GSOC Tour Challenge Tier 1,Curling,Team,Men,11/9/18,Kevin Koe,CAN,LOST,2,Glenn Howard,CAN,WON,8
+GSOC Tour Challenge Tier 1,Curling,Team,Men,11/9/18,John Epping,CAN,LOST,1,Jason Gunnlaugson,CAN,WON,5
+GSOC Tour Challenge Tier 1,Curling,Team,Men,11/9/18,Peter De Cruz,SUI,WON,6,John Shuster,USA,LOST,5
+GSOC Tour Challenge Tier 1,Curling,Team,Men,11/9/18,Niklas Edin,SWE,WON,4,Reid Carruthers,CAN,LOST,3
+GSOC Tour Challenge Tier 1,Curling,Team,Men,11/9/18,Brendan Bottcher,CAN,WON,7,Braden Calvert,CAN,LOST,4
+GSOC Tour Challenge Tier 1,Curling,Team,Men,11/9/18,Peter De Cruz,SUI,LOST,4,Matt Dunstone,CAN,WON,5
+GSOC Tour Challenge Tier 1,Curling,Team,Men,11/9/18,Kevin Koe,CAN,WON,3,Brad Jacobs,CAN,LOST,1
+GSOC Tour Challenge Tier 1,Curling,Team,Men,11/9/18,Brad Gushue,CAN,WON,6,Ross Paterson,SCO,LOST,3
+GSOC Tour Challenge Tier 1,Curling,Team,Men,11/10/18,Matt Dunstone,CAN,LOST,4,Glenn Howard,CAN,WON,6
+GSOC Tour Challenge Tier 1,Curling,Team,Men,11/10/18,Brad Gushue,CAN,LOST,4,Glenn Howard,CAN,WON,6
+GSOC Tour Challenge Tier 1,Curling,Team,Men,11/10/18,Brendan Bottcher,CAN,WON,5,Rich Ruohonen,USA,LOST,1
+GSOC Tour Challenge Tier 1,Curling,Team,Men,11/10/18,Peter De Cruz,SUI,WON,7,Kevin Koe,CAN,LOST,6
+GSOC Tour Challenge Tier 1,Curling,Team,Men,11/10/18,Brad Jacobs,CAN,WON,7,John Shuster,USA,LOST,6
+GSOC Tour Challenge Tier 1,Curling,Team,Men,11/10/18,Glenn Howard,CAN,LOST,2,Brendan Bottcher,CAN,WON,5
+GSOC Tour Challenge Tier 1,Curling,Team,Men,11/10/18,Peter De Cruz,SUI,LOST,3,Brad Jacobs,CAN,WON,6
+GSOC Tour Challenge Tier 1,Curling,Team,Men,11/11/18,Brendan Bottcher,CAN,LOST,5,Brad Jacobs,CAN,WON,6
+GSOC Tour Challenge Tier 1,Curling,Team,Women,11/6/18,Chelsea Carey,CAN,WON,5,Jamie Sinclair,USA,LOST,2
+GSOC Tour Challenge Tier 1,Curling,Team,Women,11/6/18,Laura Walker,CAN,WON,8,Krista McCarville,CAN,LOST,2
+GSOC Tour Challenge Tier 1,Curling,Team,Women,11/7/18,Isabella Wrana,SWE,LOST,1,Allison Flaxey,CAN,WON,9
+GSOC Tour Challenge Tier 1,Curling,Team,Women,11/7/18,Casey Scheidegger,CAN,LOST,5,Darcy Robertson,CAN,WON,6
+GSOC Tour Challenge Tier 1,Curling,Team,Women,11/7/18,Kerri Einarson,CAN,WON,5,Cory Christensen,USA,LOST,3
+GSOC Tour Challenge Tier 1,Curling,Team,Women,11/7/18,Nina Roth,USA,WON,6,Silvana Tirinzoni,SUI,LOST,4
+GSOC Tour Challenge Tier 1,Curling,Team,Women,11/7/18,Jennifer Jones,CAN,LOST,6,Isabella Wrana,SWE,WON,7
+GSOC Tour Challenge Tier 1,Curling,Team,Women,11/7/18,Rachel Homan,CAN,WON,7,Jamie Sinclair,USA,LOST,3
+GSOC Tour Challenge Tier 1,Curling,Team,Women,11/7/18,Tracy Fleury,CAN,WON,8,Laura Walker,CAN,LOST,3
+GSOC Tour Challenge Tier 1,Curling,Team,Women,11/7/18,Darcy Robertson,CAN,WON,7,Krista McCarville,CAN,LOST,4
+GSOC Tour Challenge Tier 1,Curling,Team,Women,11/7/18,Kerri Einarson,CAN,WON,7,Chelsea Carey,CAN,LOST,3
+GSOC Tour Challenge Tier 1,Curling,Team,Women,11/7/18,Silvana Tirinzoni,SUI,WON,7,Allison Flaxey,CAN,LOST,2
+GSOC Tour Challenge Tier 1,Curling,Team,Women,11/8/18,Nina Roth,USA,WON,6,Isabella Wrana,SWE,LOST,2
+GSOC Tour Challenge Tier 1,Curling,Team,Women,11/8/18,Laura Walker,CAN,WON,5,Darcy Robertson,CAN,LOST,4
+GSOC Tour Challenge Tier 1,Curling,Team,Women,11/8/18,Jamie Sinclair,USA,LOST,3,Kerri Einarson,CAN,WON,4
+GSOC Tour Challenge Tier 1,Curling,Team,Women,11/8/18,Tracy Fleury,CAN,WON,5,Casey Scheidegger,CAN,LOST,3
+GSOC Tour Challenge Tier 1,Curling,Team,Women,11/8/18,Jennifer Jones,CAN,WON,7,Allison Flaxey,CAN,LOST,3
+GSOC Tour Challenge Tier 1,Curling,Team,Women,11/8/18,Rachel Homan,CAN,WON,8,Cory Christensen,USA,LOST,2
+GSOC Tour Challenge Tier 1,Curling,Team,Women,11/8/18,Silvana Tirinzoni,SUI,WON,4,Isabella Wrana,SWE,LOST,3
+GSOC Tour Challenge Tier 1,Curling,Team,Women,11/8/18,Jennifer Jones,CAN,WON,6,Nina Roth,USA,LOST,5
+GSOC Tour Challenge Tier 1,Curling,Team,Women,11/8/18,Chelsea Carey,CAN,LOST,7,Cory Christensen,USA,WON,8
+GSOC Tour Challenge Tier 1,Curling,Team,Women,11/8/18,Tracy Fleury,CAN,WON,5,Krista McCarville,CAN,LOST,3
+GSOC Tour Challenge Tier 1,Curling,Team,Women,11/8/18,Rachel Homan,CAN,WON,7,Kerri Einarson,CAN,LOST,2
+GSOC Tour Challenge Tier 1,Curling,Team,Women,11/9/18,Laura Walker,CAN,LOST,4,Casey Scheidegger,CAN,WON,6
+GSOC Tour Challenge Tier 1,Curling,Team,Women,11/9/18,Tracy Fleury,CAN,WON,11,Darcy Robertson,CAN,LOST,2
+GSOC Tour Challenge Tier 1,Curling,Team,Women,11/9/18,Jennifer Jones,CAN,WON,7,Silvana Tirinzoni,SUI,LOST,1
+GSOC Tour Challenge Tier 1,Curling,Team,Women,11/9/18,Nina Roth,USA,WON,7,Allison Flaxey,CAN,LOST,6
+GSOC Tour Challenge Tier 1,Curling,Team,Women,11/9/18,Casey Scheidegger,CAN,LOST,3,Krista McCarville,CAN,WON,5
+GSOC Tour Challenge Tier 1,Curling,Team,Women,11/9/18,Rachel Homan,CAN,WON,8,Chelsea Carey,CAN,LOST,3
+GSOC Tour Challenge Tier 1,Curling,Team,Women,11/9/18,Jamie Sinclair,USA,WON,5,Cory Christensen,USA,LOST,3
+GSOC Tour Challenge Tier 1,Curling,Team,Women,11/10/18,Rachel Homan,CAN,WON,5,Laura Walker,CAN,LOST,3
+GSOC Tour Challenge Tier 1,Curling,Team,Women,11/10/18,Nina Roth,USA,WON,6,Jennifer Jones,CAN,LOST,5
+GSOC Tour Challenge Tier 1,Curling,Team,Women,11/10/18,Tracy Fleury,CAN,WON,6,Darcy Robertson,CAN,LOST,3
+GSOC Tour Challenge Tier 1,Curling,Team,Women,11/10/18,Kerri Einarson,CAN,WON,5,Silvana Tirinzoni,SUI,LOST,4
+GSOC Tour Challenge Tier 1,Curling,Team,Women,11/10/18,Rachel Homan,CAN,WON,6,Nina Roth,USA,LOST,5
+GSOC Tour Challenge Tier 1,Curling,Team,Women,11/10/18,Tracy Fleury,CAN,WON,6,Kerri Einarson,CAN,LOST,3
+GSOC Tour Challenge Tier 1,Curling,Team,Women,11/11/18,Rachel Homan,CAN,WON,8,Tracy Fleury,CAN,LOST,4
+Boost National,Curling,Team,Men,12/11/18,Brad Jacobs,CAN,WON,7,Scott McDonald,CAN,LOST,5
+Boost National,Curling,Team,Men,12/11/18,Brad Gushue,CAN,LOST,6,Yannick Schwaller,SUI,WON,8
+Boost National,Curling,Team,Men,12/11/18,Glenn Howard,CAN,WON,4,Jason Gunnlaugson,CAN,LOST,1
+Boost National,Curling,Team,Men,12/12/18,Bruce Mouat,SCO,WON,6,Peter De Cruz,SUI,LOST,3
+Boost National,Curling,Team,Men,12/12/18,Niklas Edin,SWE,WON,7,Braden Calvert,CAN,LOST,5
+Boost National,Curling,Team,Men,12/12/18,John Epping,CAN,WON,6,Kirk Muyres,CAN,LOST,2
+Boost National,Curling,Team,Men,12/12/18,Ross Paterson,SCO,WON,8,Yannick Schwaller,SUI,LOST,5
+Boost National,Curling,Team,Men,12/12/18,Team Carruthers,CAN,WON,8,Scott McDonald,CAN,LOST,4
+Boost National,Curling,Team,Men,12/12/18,Kevin Koe,CAN,LOST,3,Jason Gunnlaugson,CAN,WON,4
+Boost National,Curling,Team,Men,12/12/18,Brad Gushue,CAN,WON,8,Ross Paterson,SCO,LOST,1
+Boost National,Curling,Team,Men,12/12/18,Brad Jacobs,CAN,WON,7,Braden Calvert,CAN,LOST,3
+Boost National,Curling,Team,Men,12/12/18,Glenn Howard,CAN,LOST,4,Kirk Muyres,CAN,WON,6
+Boost National,Curling,Team,Men,12/12/18,Niklas Edin,SWE,WON,5,Team Carruthers,CAN,LOST,4
+Boost National,Curling,Team,Men,12/13/18,Peter De Cruz,SUI,LOST,5,Yannick Schwaller,SUI,WON,6
+Boost National,Curling,Team,Men,12/13/18,Team Carruthers,CAN,LOST,2,Braden Calvert,CAN,WON,6
+Boost National,Curling,Team,Men,12/13/18,Kevin Koe,CAN,WON,5,Glenn Howard,CAN,LOST,4
+Boost National,Curling,Team,Men,12/13/18,John Epping,CAN,LOST,5,Jason Gunnlaugson,CAN,WON,7
+Boost National,Curling,Team,Men,12/13/18,Bruce Mouat,SCO,WON,7,Ross Paterson,SCO,LOST,1
+Boost National,Curling,Team,Men,12/13/18,Niklas Edin,SWE,WON,6,Scott McDonald,CAN,LOST,4
+Boost National,Curling,Team,Men,12/13/18,John Epping,CAN,LOST,6,Glenn Howard,CAN,WON,7
+Boost National,Curling,Team,Men,12/13/18,Bruce Mouat,SCO,WON,8,Yannick Schwaller,SUI,LOST,5
+Boost National,Curling,Team,Men,12/13/18,Brad Gushue,CAN,WON,5,Peter De Cruz,SUI,LOST,3
+Boost National,Curling,Team,Men,12/13/18,Brad Jacobs,CAN,WON,8,Team Carruthers,CAN,LOST,1
+Boost National,Curling,Team,Men,12/13/18,Kevin Koe,CAN,WON,7,Kirk Muyres,CAN,LOST,3
+Boost National,Curling,Team,Men,12/14/18,Niklas Edin,SWE,LOST,5,Brad Jacobs,CAN,WON,7
+Boost National,Curling,Team,Men,12/14/18,Kevin Koe,CAN,WON,8,John Epping,CAN,LOST,5
+Boost National,Curling,Team,Men,12/14/18,Peter De Cruz,SUI,LOST,3,Ross Paterson,SCO,WON,6
+Boost National,Curling,Team,Men,12/14/18,Jason Gunnlaugson,CAN,LOST,3,Kirk Muyres,CAN,WON,4
+Boost National,Curling,Team,Men,12/14/18,Brad Gushue,CAN,LOST,5,Bruce Mouat,SCO,WON,6
+Boost National,Curling,Team,Men,12/14/18,Scott McDonald,CAN,WON,6,Braden Calvert,CAN,LOST,4
+Boost National,Curling,Team,Men,12/14/18,Glenn Howard,CAN,WON,4,Kirk Muyres,CAN,LOST,2
+Boost National,Curling,Team,Men,12/14/18,Yannick Schwaller,SUI,LOST,1,Brad Gushue,CAN,WON,4
+Boost National,Curling,Team,Men,12/15/18,Bruce Mouat,SCO,WON,7,Brad Gushue,CAN,LOST,5
+Boost National,Curling,Team,Men,12/15/18,Kevin Koe,CAN,WON,9,Jason Gunnlaugson,CAN,LOST,5
+Boost National,Curling,Team,Men,12/15/18,Brad Jacobs,CAN,LOST,4,Glenn Howard,CAN,WON,5
+Boost National,Curling,Team,Men,12/15/18,Niklas Edin,SWE,LOST,4,Ross Paterson,SCO,WON,7
+Boost National,Curling,Team,Men,12/15/18,Bruce Mouat,SCO,WON,6,Kevin Koe,CAN,LOST,5
+Boost National,Curling,Team,Men,12/15/18,Glenn Howard,CAN,LOST,6,Ross Paterson,SCO,WON,7
+Boost National,Curling,Team,Men,12/16/18,Bruce Mouat,SCO,LOST,3,Ross Paterson,SCO,WON,4
+Boost National,Curling,Team,Women,12/11/18,Satsuki Fujisawa,JPN,WON,9,Jamie Sinclair,USA,LOST,4
+Boost National,Curling,Team,Women,12/11/18,Chelsea Carey,CAN,WON,8,Nina Roth,USA,LOST,7
+Boost National,Curling,Team,Women,12/12/18,Eve Muirhead,SCO,WON,6,Jacqueline Harrison,CAN,LOST,5
+Boost National,Curling,Team,Women,12/12/18,Tracy Fleury,CAN,LOST,2,Sayaka Yoshimura,JPN,WON,8
+Boost National,Curling,Team,Women,12/12/18,Silvana Tirinzoni,SUI,WON,6,Isabella Wrana,SWE,LOST,3
+Boost National,Curling,Team,Women,12/12/18,Anna Hasselborg,SWE,WON,4,Chelsea Carey,CAN,LOST,3
+Boost National,Curling,Team,Women,12/12/18,Rachel Homan,CAN,WON,5,Casey Scheidegger,CAN,LOST,3
+Boost National,Curling,Team,Women,12/12/18,Nina Roth,USA,WON,9,Isabella Wrana,SWE,LOST,3
+Boost National,Curling,Team,Women,12/12/18,Kerri Einarson,CAN,WON,5,Eve Muirhead,SCO,LOST,2
+Boost National,Curling,Team,Women,12/12/18,Jennifer Jones,CAN,LOST,2,Satsuki Fujisawa,JPN,WON,8
+Boost National,Curling,Team,Women,12/12/18,Tracy Fleury,CAN,LOST,5,Jamie Sinclair,USA,WON,7
+Boost National,Curling,Team,Women,12/12/18,Rachel Homan,CAN,WON,6,Jacqueline Harrison,CAN,LOST,3
+Boost National,Curling,Team,Women,12/13/18,Tracy Fleury,CAN,WON,6,Satsuki Fujisawa,JPN,LOST,5
+Boost National,Curling,Team,Women,12/13/18,Silvana Tirinzoni,SUI,WON,7,Chelsea Carey,CAN,LOST,2
+Boost National,Curling,Team,Women,12/13/18,Anna Hasselborg,SWE,WON,4,Isabella Wrana,SWE,LOST,2
+Boost National,Curling,Team,Women,12/13/18,Kerri Einarson,CAN,WON,9,Casey Scheidegger,CAN,LOST,4
+Boost National,Curling,Team,Women,12/13/18,Jennifer Jones,CAN,WON,6,Sayaka Yoshimura,JPN,LOST,3
+Boost National,Curling,Team,Women,12/13/18,Silvana Tirinzoni,SUI,WON,7,Nina Roth,USA,LOST,5
+Boost National,Curling,Team,Women,12/13/18,Rachel Homan,CAN,LOST,5,Eve Muirhead,SCO,WON,8
+Boost National,Curling,Team,Women,12/13/18,Jamie Sinclair,USA,WON,6,Sayaka Yoshimura,JPN,LOST,4
+Boost National,Curling,Team,Women,12/13/18,Kerri Einarson,CAN,LOST,5,Jacqueline Harrison,CAN,WON,7
+Boost National,Curling,Team,Women,12/14/18,Rachel Homan,CAN,WON,6,Kerri Einarson,CAN,LOST,5
+Boost National,Curling,Team,Women,12/14/18,Satsuki Fujisawa,JPN,WON,8,Sayaka Yoshimura,JPN,LOST,5
+Boost National,Curling,Team,Women,12/14/18,Casey Scheidegger,CAN,LOST,4,Jacqueline Harrison,CAN,WON,8
+Boost National,Curling,Team,Women,12/14/18,Chelsea Carey,CAN,LOST,4,Isabella Wrana,SWE,WON,5
+Boost National,Curling,Team,Women,12/14/18,Anna Hasselborg,SWE,WON,7,Nina Roth,USA,LOST,5
+Boost National,Curling,Team,Women,12/14/18,Jennifer Jones,CAN,WON,5,Tracy Fleury,CAN,LOST,4
+Boost National,Curling,Team,Women,12/14/18,Casey Scheidegger,CAN,LOST,4,Eve Muirhead,SCO,WON,5
+Boost National,Curling,Team,Women,12/14/18,Jennifer Jones,CAN,WON,10,Jamie Sinclair,USA,LOST,2
+Boost National,Curling,Team,Women,12/14/18,Anna Hasselborg,SWE,WON,6,Silvana Tirinzoni,SUI,LOST,5
+Boost National,Curling,Team,Women,12/15/18,Jamie Sinclair,USA,LOST,0,Kerri Einarson,CAN,WON,12
+Boost National,Curling,Team,Women,12/15/18,Anna Hasselborg,SWE,LOST,3,Kerri Einarson,CAN,WON,8
+Boost National,Curling,Team,Women,12/15/18,Silvana Tirinzoni,SUI,WON,9,Satsuki Fujisawa,JPN,LOST,6
+Boost National,Curling,Team,Women,12/15/18,Rachel Homan,CAN,WON,6,Jacqueline Harrison,CAN,LOST,4
+Boost National,Curling,Team,Women,12/15/18,Eve Muirhead,SCO,LOST,2,Jennifer Jones,CAN,WON,5
+Boost National,Curling,Team,Women,12/15/18,Kerri Einarson,CAN,WON,8,Silvana Tirinzoni,SUI,LOST,3
+Boost National,Curling,Team,Women,12/15/18,Rachel Homan,CAN,WON,6,Jennifer Jones,CAN,LOST,2
+Boost National,Curling,Team,Women,12/16/18,Kerri Einarson,CAN,LOST,1,Rachel Homan,CAN,WON,4
+GSOC Tour Challenge Tier 1,Curling,Team,Men,9/5/17,Brad Gushue,CAN,WON,8,Glenn Howard,CAN,LOST,1
+GSOC Tour Challenge Tier 1,Curling,Team,Men,9/5/17,Kevin Koe,CAN,LOST,4,John Shuster,USA,WON,5
+GSOC Tour Challenge Tier 1,Curling,Team,Men,9/5/17,John Epping,CAN,WON,10,Pat Simmons,CAN,LOST,3
+GSOC Tour Challenge Tier 1,Curling,Team,Men,9/5/17,John Morris,CAN,LOST,5,Steve Laycock,CAN,WON,6
+GSOC Tour Challenge Tier 1,Curling,Team,Men,9/6/17,Kyle Smith,SCO,LOST,2,Heath McCormick,USA,WON,6
+GSOC Tour Challenge Tier 1,Curling,Team,Men,9/6/17,Niklas Edin,SWE,LOST,5,Pat Simmons,CAN,WON,7
+GSOC Tour Challenge Tier 1,Curling,Team,Men,9/6/17,Peter De Cruz,SUI,WON,5,Glenn Howard,CAN,LOST,4
+GSOC Tour Challenge Tier 1,Curling,Team,Men,9/6/17,Reid Carruthers,CAN,LOST,4,Steffen Walstad,NOR,WON,8
+GSOC Tour Challenge Tier 1,Curling,Team,Men,9/6/17,John Morris,CAN,LOST,5,Brad Jacobs,CAN,WON,8
+GSOC Tour Challenge Tier 1,Curling,Team,Men,9/6/17,Reid Carruthers,CAN,LOST,6,Steve Laycock,CAN,WON,7
+GSOC Tour Challenge Tier 1,Curling,Team,Men,9/6/17,Brad Gushue,CAN,WON,6,John Shuster,USA,LOST,1
+GSOC Tour Challenge Tier 1,Curling,Team,Men,9/6/17,John Epping,CAN,WON,7,Heath McCormick,USA,LOST,4
+GSOC Tour Challenge Tier 1,Curling,Team,Men,9/6/17,Niklas Edin,SWE,WON,9,Kyle Smith,SCO,LOST,5
+GSOC Tour Challenge Tier 1,Curling,Team,Men,9/6/17,Kevin Koe,CAN,WON,6,Peter De Cruz,SUI,LOST,1
+GSOC Tour Challenge Tier 1,Curling,Team,Men,9/7/17,John Shuster,USA,WON,7,Peter De Cruz,SUI,LOST,6
+GSOC Tour Challenge Tier 1,Curling,Team,Men,9/7/17,John Epping,CAN,WON,6,Niklas Edin,SWE,LOST,5
+GSOC Tour Challenge Tier 1,Curling,Team,Men,9/7/17,Brad Jacobs,CAN,WON,7,Reid Carruthers,CAN,LOST,5
+GSOC Tour Challenge Tier 1,Curling,Team,Men,9/7/17,Pat Simmons,CAN,WON,11,Heath McCormick,USA,LOST,1
+GSOC Tour Challenge Tier 1,Curling,Team,Men,9/7/17,Steve Laycock,CAN,LOST,6,Steffen Walstad,NOR,WON,8
+GSOC Tour Challenge Tier 1,Curling,Team,Men,9/7/17,Pat Simmons,CAN,WON,9,Kyle Smith,SCO,LOST,2
+GSOC Tour Challenge Tier 1,Curling,Team,Men,9/7/17,Brad Gushue,CAN,WON,8,Kevin Koe,CAN,LOST,4
+GSOC Tour Challenge Tier 1,Curling,Team,Men,9/7/17,Glenn Howard,CAN,LOST,5,John Shuster,USA,WON,9
+GSOC Tour Challenge Tier 1,Curling,Team,Men,9/7/17,John Morris,CAN,LOST,6,Reid Carruthers,CAN,WON,9
+GSOC Tour Challenge Tier 1,Curling,Team,Men,9/7/17,Steve Laycock,CAN,LOST,4,Brad Jacobs,CAN,WON,9
+GSOC Tour Challenge Tier 1,Curling,Team,Men,9/8/17,Niklas Edin,SWE,WON,7,Heath McCormick,USA,LOST,4
+GSOC Tour Challenge Tier 1,Curling,Team,Men,9/8/17,Steffen Walstad,NOR,WON,7,Brad Jacobs,CAN,LOST,5
+GSOC Tour Challenge Tier 1,Curling,Team,Men,9/8/17,John Epping,CAN,WON,7,Kyle Smith,SCO,LOST,6
+GSOC Tour Challenge Tier 1,Curling,Team,Men,9/8/17,Kevin Koe,CAN,LOST,2,Glenn Howard,CAN,WON,6
+GSOC Tour Challenge Tier 1,Curling,Team,Men,9/8/17,Steffen Walstad,NOR,WON,6,John Morris,CAN,LOST,5
+GSOC Tour Challenge Tier 1,Curling,Team,Men,9/8/17,Brad Gushue,CAN,WON,8,Peter De Cruz,SUI,LOST,3
+GSOC Tour Challenge Tier 1,Curling,Team,Men,9/9/17,Brad Gushue,CAN,WON,7,Steve Laycock,CAN,LOST,5
+GSOC Tour Challenge Tier 1,Curling,Team,Men,9/9/17,John Shuster,USA,LOST,8,Brad Jacobs,CAN,WON,10
+GSOC Tour Challenge Tier 1,Curling,Team,Men,9/9/17,John Epping,CAN,LOST,4,Niklas Edin,SWE,WON,5
+GSOC Tour Challenge Tier 1,Curling,Team,Men,9/9/17,Steffen Walstad,NOR,WON,11,Pat Simmons,CAN,LOST,4
+GSOC Tour Challenge Tier 1,Curling,Team,Men,9/9/17,Brad Gushue,CAN,WON,5,Brad Jacobs,CAN,LOST,2
+GSOC Tour Challenge Tier 1,Curling,Team,Men,9/9/17,Niklas Edin,SWE,LOST,5,Steffen Walstad,NOR,WON,6
+GSOC Tour Challenge Tier 1,Curling,Team,Men,9/10/17,Brad Gushue,CAN,WON,9,Steffen Walstad,NOR,LOST,1
+GSOC Tour Challenge Tier 1,Curling,Team,Women,9/5/17,Allison Flaxey,CAN,LOST,2,Casey Scheidegger,CAN,WON,9
+GSOC Tour Challenge Tier 1,Curling,Team,Women,9/5/17,Eve Muirhead,SCO,LOST,5,Bingyu Wang,CHN,WON,7
+GSOC Tour Challenge Tier 1,Curling,Team,Women,9/5/17,Anna Hasselborg,SWE,LOST,3,Michelle Englot,CAN,WON,9
+GSOC Tour Challenge Tier 1,Curling,Team,Women,9/5/17,Jacqueline Harrison,CAN,WON,7,Rachel Homan,CAN,LOST,6
+GSOC Tour Challenge Tier 1,Curling,Team,Women,9/6/17,Sherry Middaugh,CAN,LOST,4,Alina Paetz,SUI,WON,6
+GSOC Tour Challenge Tier 1,Curling,Team,Women,9/6/17,Val Sweeting,CAN,WON,8,Bingyu Wang,CHN,LOST,7
+GSOC Tour Challenge Tier 1,Curling,Team,Women,9/6/17,Tracy Fleury,CAN,LOST,3,Julie Tippin,CAN,WON,6
+GSOC Tour Challenge Tier 1,Curling,Team,Women,9/6/17,Jennifer Jones,CAN,WON,7,Allison Flaxey,CAN,LOST,6
+GSOC Tour Challenge Tier 1,Curling,Team,Women,9/6/17,Eve Muirhead,SCO,WON,7,Jacqueline Harrison,CAN,LOST,6
+GSOC Tour Challenge Tier 1,Curling,Team,Women,9/6/17,Rachel Homan,CAN,LOST,4,Val Sweeting,CAN,WON,6
+GSOC Tour Challenge Tier 1,Curling,Team,Women,9/6/17,Jennifer Jones,CAN,WON,5,Sherry Middaugh,CAN,LOST,1
+GSOC Tour Challenge Tier 1,Curling,Team,Women,9/6/17,Michelle Englot,CAN,LOST,3,Silvana Tirinzoni,SUI,WON,10
+GSOC Tour Challenge Tier 1,Curling,Team,Women,9/6/17,Casey Scheidegger,CAN,LOST,3,Alina Paetz,SUI,WON,7
+GSOC Tour Challenge Tier 1,Curling,Team,Women,9/6/17,Anna Hasselborg,SWE,WON,8,Tracy Fleury,CAN,LOST,7
+GSOC Tour Challenge Tier 1,Curling,Team,Women,9/7/17,Silvana Tirinzoni,SUI,WON,7,Julie Tippin,CAN,LOST,3
+GSOC Tour Challenge Tier 1,Curling,Team,Women,9/7/17,Michelle Englot,CAN,WON,8,Tracy Fleury,CAN,LOST,0
+GSOC Tour Challenge Tier 1,Curling,Team,Women,9/7/17,Jacqueline Harrison,CAN,LOST,4,Val Sweeting,CAN,WON,5
+GSOC Tour Challenge Tier 1,Curling,Team,Women,9/7/17,Alina Paetz,SUI,WON,8,Allison Flaxey,CAN,LOST,0
+GSOC Tour Challenge Tier 1,Curling,Team,Women,9/7/17,Jennifer Jones,CAN,LOST,6,Alina Paetz,SUI,WON,8
+GSOC Tour Challenge Tier 1,Curling,Team,Women,9/7/17,Julie Tippin,CAN,LOST,4,Anna Hasselborg,SWE,WON,8
+GSOC Tour Challenge Tier 1,Curling,Team,Women,9/7/17,Rachel Homan,CAN,WON,8,Bingyu Wang,CHN,LOST,6
+GSOC Tour Challenge Tier 1,Curling,Team,Women,9/7/17,Eve Muirhead,SCO,LOST,3,Val Sweeting,CAN,WON,4
+GSOC Tour Challenge Tier 1,Curling,Team,Women,9/7/17,Sherry Middaugh,CAN,WON,6,Casey Scheidegger,CAN,LOST,5
+GSOC Tour Challenge Tier 1,Curling,Team,Women,9/8/17,Julie Tippin,CAN,WON,7,Michelle Englot,CAN,LOST,3
+GSOC Tour Challenge Tier 1,Curling,Team,Women,9/8/17,Anna Hasselborg,SWE,WON,4,Silvana Tirinzoni,SUI,LOST,2
+GSOC Tour Challenge Tier 1,Curling,Team,Women,9/8/17,Sherry Middaugh,CAN,LOST,1,Allison Flaxey,CAN,WON,7
+GSOC Tour Challenge Tier 1,Curling,Team,Women,9/8/17,Rachel Homan,CAN,LOST,6,Eve Muirhead,SCO,WON,7
+GSOC Tour Challenge Tier 1,Curling,Team,Women,9/8/17,Casey Scheidegger,CAN,LOST,4,Jennifer Jones,CAN,WON,8
+GSOC Tour Challenge Tier 1,Curling,Team,Women,9/8/17,Tracy Fleury,CAN,LOST,1,Silvana Tirinzoni,SUI,WON,7
+GSOC Tour Challenge Tier 1,Curling,Team,Women,9/8/17,Jacqueline Harrison,CAN,WON,6,Bingyu Wang,CHN,LOST,1
+GSOC Tour Challenge Tier 1,Curling,Team,Women,9/8/17,Julie Tippin,CAN,LOST,4,Eve Muirhead,SCO,WON,5
+GSOC Tour Challenge Tier 1,Curling,Team,Women,9/9/17,Alina Paetz,SUI,LOST,3,Eve Muirhead,SCO,WON,5
+GSOC Tour Challenge Tier 1,Curling,Team,Women,9/9/17,Silvana Tirinzoni,SUI,LOST,4,Anna Hasselborg,SWE,WON,7
+GSOC Tour Challenge Tier 1,Curling,Team,Women,9/9/17,Val Sweeting,CAN,WON,8,Michelle Englot,CAN,LOST,5
+GSOC Tour Challenge Tier 1,Curling,Team,Women,9/9/17,Jennifer Jones,CAN,WON,8,Jacqueline Harrison,CAN,LOST,5
+GSOC Tour Challenge Tier 1,Curling,Team,Women,9/9/17,Eve Muirhead,SCO,LOST,5,Anna Hasselborg,SWE,WON,6
+GSOC Tour Challenge Tier 1,Curling,Team,Women,9/9/17,Val Sweeting,CAN,WON,6,Jennifer Jones,CAN,LOST,5
+GSOC Tour Challenge Tier 1,Curling,Team,Women,9/10/17,Anna Hasselborg,SWE,LOST,5,Val Sweeting,CAN,WON,6
+Masters of Curling,Curling,Team,Men,10/24/17,Kevin Koe,CAN,WON,7,Jason Gunnlaugson,CAN,LOST,3
+Masters of Curling,Curling,Team,Men,10/24/17,Steve Laycock,CAN,WON,7,Pat Simmons,CAN,LOST,5
+Masters of Curling,Curling,Team,Men,10/24/17,Mike McEwen,CAN,WON,8,John Shuster,USA,LOST,0
+Masters of Curling,Curling,Team,Men,10/24/17,Kyle Smith,SCO,LOST,6,Brad Gushue,CAN,WON,7
+Masters of Curling,Curling,Team,Men,10/25/17,Peter De Cruz,SUI,LOST,3,Reid Carruthers,CAN,WON,6
+Masters of Curling,Curling,Team,Men,10/25/17,Niklas Edin,SWE,WON,5,John Morris,CAN,LOST,3
+Masters of Curling,Curling,Team,Men,10/25/17,Brad Jacobs,CAN,WON,5,Pat Simmons,CAN,LOST,3
+Masters of Curling,Curling,Team,Men,10/25/17,Thomas Ulsrud,NOR,WON,7,Kyle Smith,SCO,LOST,6
+Masters of Curling,Curling,Team,Men,10/25/17,John Epping,CAN,LOST,5,Jason Gunnlaugson,CAN,WON,7
+Masters of Curling,Curling,Team,Men,10/25/17,Brad Gushue,CAN,WON,9,John Shuster,USA,LOST,7
+Masters of Curling,Curling,Team,Men,10/25/17,Kevin Koe,CAN,WON,7,John Morris,CAN,LOST,1
+Masters of Curling,Curling,Team,Men,10/25/17,Steve Laycock,CAN,LOST,3,Peter De Cruz,SUI,WON,8
+Masters of Curling,Curling,Team,Men,10/25/17,Niklas Edin,SWE,WON,6,John Epping,CAN,LOST,2
+Masters of Curling,Curling,Team,Men,10/25/17,Thomas Ulsrud,NOR,WON,5,Mike McEwen,CAN,LOST,4
+Masters of Curling,Curling,Team,Men,10/25/17,Reid Carruthers,CAN,LOST,4,Brad Jacobs,CAN,WON,8
+Masters of Curling,Curling,Team,Men,10/26/17,Pat Simmons,CAN,LOST,6,Reid Carruthers,CAN,WON,7
+Masters of Curling,Curling,Team,Men,10/26/17,John Morris,CAN,LOST,4,Jason Gunnlaugson,CAN,WON,7
+Masters of Curling,Curling,Team,Men,10/26/17,Brad Jacobs,CAN,WON,7,Peter De Cruz,SUI,LOST,2
+Masters of Curling,Curling,Team,Men,10/26/17,Thomas Ulsrud,NOR,LOST,4,John Shuster,USA,WON,6
+Masters of Curling,Curling,Team,Men,10/26/17,Kevin Koe,CAN,WON,7,John Epping,CAN,LOST,3
+Masters of Curling,Curling,Team,Men,10/26/17,Kyle Smith,SCO,WON,6,John Shuster,USA,LOST,2
+Masters of Curling,Curling,Team,Men,10/26/17,Jason Gunnlaugson,CAN,LOST,4,Niklas Edin,SWE,WON,8
+Masters of Curling,Curling,Team,Men,10/26/17,Brad Gushue,CAN,WON,5,Mike McEwen,CAN,LOST,4
+Masters of Curling,Curling,Team,Men,10/26/17,Steve Laycock,CAN,LOST,3,Reid Carruthers,CAN,WON,9
+Masters of Curling,Curling,Team,Men,10/27/17,Pat Simmons,CAN,LOST,2,Peter De Cruz,SUI,WON,6
+Masters of Curling,Curling,Team,Men,10/27/17,Brad Gushue,CAN,WON,6,Thomas Ulsrud,NOR,LOST,3
+Masters of Curling,Curling,Team,Men,10/27/17,John Morris,CAN,LOST,3,John Epping,CAN,WON,7
+Masters of Curling,Curling,Team,Men,10/27/17,Brad Jacobs,CAN,WON,4,Steve Laycock,CAN,LOST,2
+Masters of Curling,Curling,Team,Men,10/27/17,Kevin Koe,CAN,WON,6,Niklas Edin,SWE,LOST,2
+Masters of Curling,Curling,Team,Men,10/27/17,Kyle Smith,SCO,LOST,3,Mike McEwen,CAN,WON,4
+Masters of Curling,Curling,Team,Men,10/27/17,Mike McEwen,CAN,WON,8,Thomas Ulsrud,NOR,LOST,2
+Masters of Curling,Curling,Team,Men,10/28/17,Brad Jacobs,CAN,LOST,3,Mike McEwen,CAN,WON,6
+Masters of Curling,Curling,Team,Men,10/28/17,Niklas Edin,SWE,WON,4,Reid Carruthers,CAN,LOST,3
+Masters of Curling,Curling,Team,Men,10/28/17,Kevin Koe,CAN,WON,8,Jason Gunnlaugson,CAN,LOST,2
+Masters of Curling,Curling,Team,Men,10/28/17,Brad Gushue,CAN,WON,8,Peter De Cruz,SUI,LOST,3
+Masters of Curling,Curling,Team,Men,10/28/17,Mike McEwen,CAN,LOST,2,Niklas Edin,SWE,WON,4
+Masters of Curling,Curling,Team,Men,10/28/17,Kevin Koe,CAN,LOST,1,Brad Gushue,CAN,WON,7
+Masters of Curling,Curling,Team,Men,10/29/17,Niklas Edin,SWE,LOST,4,Brad Gushue,CAN,WON,8
+Masters of Curling,Curling,Team,Women,10/24/17,Jamie Sinclair,USA,LOST,5,Anna Sidorova,RUS,WON,6
+Masters of Curling,Curling,Team,Women,10/24/17,Alina Paetz,SUI,WON,8,Jacqueline Harrison,CAN,LOST,6
+Masters of Curling,Curling,Team,Women,10/24/17,Val Sweeting,CAN,LOST,4,Casey Scheidegger,CAN,WON,6
+Masters of Curling,Curling,Team,Women,10/24/17,Jennifer Jones,CAN,WON,7,Sherry Middaugh,CAN,LOST,3
+Masters of Curling,Curling,Team,Women,10/24/17,Rachel Homan,CAN,LOST,3,Michelle Englot,CAN,WON,5
+Masters of Curling,Curling,Team,Women,10/25/17,Alina Paetz,SUI,LOST,2,Jennifer Jones,CAN,WON,8
+Masters of Curling,Curling,Team,Women,10/25/17,Anna Hasselborg,SWE,WON,5,Jamie Sinclair,USA,LOST,3
+Masters of Curling,Curling,Team,Women,10/25/17,Eve Muirhead,SCO,WON,6,Anna Sidorova,RUS,LOST,5
+Masters of Curling,Curling,Team,Women,10/25/17,Silvana Tirinzoni,SUI,WON,7,Sherry Middaugh,CAN,LOST,3
+Masters of Curling,Curling,Team,Women,10/25/17,Michelle Englot,CAN,LOST,3,Kerri Einarson,CAN,WON,8
+Masters of Curling,Curling,Team,Women,10/25/17,Team Flaxey,CAN,LOST,6,Eve Muirhead,SCO,WON,7
+Masters of Curling,Curling,Team,Women,10/25/17,Rachel Homan,CAN,LOST,5,Casey Scheidegger,CAN,WON,7
+Masters of Curling,Curling,Team,Women,10/25/17,Jacqueline Harrison,CAN,LOST,1,Silvana Tirinzoni,SUI,WON,8
+Masters of Curling,Curling,Team,Women,10/25/17,Val Sweeting,CAN,LOST,2,Kerri Einarson,CAN,WON,7
+Masters of Curling,Curling,Team,Women,10/26/17,Casey Scheidegger,CAN,WON,7,Michelle Englot,CAN,LOST,2
+Masters of Curling,Curling,Team,Women,10/26/17,Eve Muirhead,SCO,LOST,4,Jamie Sinclair,USA,WON,6
+Masters of Curling,Curling,Team,Women,10/26/17,Alina Paetz,SUI,WON,9,Sherry Middaugh,CAN,LOST,3
+Masters of Curling,Curling,Team,Women,10/26/17,Anna Hasselborg,SWE,WON,8,Team Flaxey,CAN,LOST,4
+Masters of Curling,Curling,Team,Women,10/26/17,Jennifer Jones,CAN,WON,10,Jacqueline Harrison,CAN,LOST,4
+Masters of Curling,Curling,Team,Women,10/26/17,Kerri Einarson,CAN,WON,8,Casey Scheidegger,CAN,LOST,4
+Masters of Curling,Curling,Team,Women,10/26/17,Anna Hasselborg,SWE,LOST,7,Eve Muirhead,SCO,WON,10
+Masters of Curling,Curling,Team,Women,10/26/17,Rachel Homan,CAN,WON,6,Val Sweeting,CAN,LOST,3
+Masters of Curling,Curling,Team,Women,10/26/17,Team Flaxey,CAN,LOST,5,Anna Sidorova,RUS,WON,8
+Masters of Curling,Curling,Team,Women,10/26/17,Silvana Tirinzoni,SUI,LOST,5,Alina Paetz,SUI,WON,7
+Masters of Curling,Curling,Team,Women,10/27/17,Jacqueline Harrison,CAN,WON,7,Sherry Middaugh,CAN,LOST,2
+Masters of Curling,Curling,Team,Women,10/27/17,Michelle Englot,CAN,LOST,4,Val Sweeting,CAN,WON,8
+Masters of Curling,Curling,Team,Women,10/27/17,Team Flaxey,CAN,LOST,3,Jamie Sinclair,USA,WON,4
+Masters of Curling,Curling,Team,Women,10/27/17,Anna Hasselborg,SWE,WON,6,Anna Sidorova,RUS,LOST,5
+Masters of Curling,Curling,Team,Women,10/27/17,Jennifer Jones,CAN,WON,8,Silvana Tirinzoni,SUI,LOST,4
+Masters of Curling,Curling,Team,Women,10/27/17,Kerri Einarson,CAN,WON,6,Rachel Homan,CAN,LOST,1
+Masters of Curling,Curling,Team,Women,10/27/17,Anna Sidorova,RUS,LOST,4,Jamie Sinclair,USA,WON,8
+Masters of Curling,Curling,Team,Women,10/28/17,Jennifer Jones,CAN,WON,5,Jamie Sinclair,USA,LOST,4
+Masters of Curling,Curling,Team,Women,10/28/17,Casey Scheidegger,CAN,LOST,1,Anna Hasselborg,SWE,WON,6
+Masters of Curling,Curling,Team,Women,10/28/17,Kerri Einarson,CAN,WON,7,Silvana Tirinzoni,SUI,LOST,3
+Masters of Curling,Curling,Team,Women,10/28/17,Eve Muirhead,SCO,WON,5,Alina Paetz,SUI,LOST,4
+Masters of Curling,Curling,Team,Women,10/28/17,Jennifer Jones,CAN,WON,10,Anna Hasselborg,SWE,LOST,4
+Masters of Curling,Curling,Team,Women,10/28/17,Kerri Einarson,CAN,WON,6,Eve Muirhead,SCO,LOST,3
+Masters of Curling,Curling,Team,Women,10/29/17,Jennifer Jones,CAN,WON,6,Kerri Einarson,CAN,LOST,5
+Boost National,Curling,Team,Men,11/14/17,Reid Carruthers,CAN,LOST,3,Chang-Min Kim,KOR,WON,7
+Boost National,Curling,Team,Men,11/14/17,Jason Gunnlaugson,CAN,WON,6,Brad Jacobs,CAN,LOST,3
+Boost National,Curling,Team,Men,11/14/17,John Epping,CAN,WON,5,Rui Liu,CHN,LOST,3
+Boost National,Curling,Team,Men,11/14/17,Brad Gushue,CAN,WON,7,Mike McEwen,CAN,LOST,6
+Boost National,Curling,Team,Men,11/14/17,Kevin Koe,CAN,WON,7,Greg Drummond,SCO,LOST,3
+Boost National,Curling,Team,Men,11/15/17,Bruce Mouat,SCO,WON,8,Greg Balsdon,CAN,LOST,4
+Boost National,Curling,Team,Men,11/15/17,Pat Simmons,CAN,LOST,1,Chang-Min Kim,KOR,WON,8
+Boost National,Curling,Team,Men,11/15/17,William Lyburn,CAN,LOST,7,Jason Gunnlaugson,CAN,WON,8
+Boost National,Curling,Team,Men,11/15/17,John Morris,CAN,LOST,1,Mike McEwen,CAN,WON,5
+Boost National,Curling,Team,Men,11/15/17,Reid Carruthers,CAN,WON,6,Rui Liu,CHN,LOST,5
+Boost National,Curling,Team,Men,11/15/17,John Epping,CAN,LOST,4,Pat Simmons,CAN,WON,7
+Boost National,Curling,Team,Men,11/15/17,John Morris,CAN,LOST,4,Greg Balsdon,CAN,WON,6
+Boost National,Curling,Team,Men,11/15/17,Brad Jacobs,CAN,WON,9,Greg Drummond,SCO,LOST,2
+Boost National,Curling,Team,Men,11/15/17,Bruce Mouat,SCO,LOST,6,Brad Gushue,CAN,WON,7
+Boost National,Curling,Team,Men,11/15/17,Kevin Koe,CAN,WON,6,William Lyburn,CAN,LOST,4
+Boost National,Curling,Team,Men,11/16/17,Rui Liu,CHN,LOST,1,Chang-Min Kim,KOR,WON,9
+Boost National,Curling,Team,Men,11/16/17,Bruce Mouat,SCO,WON,8,John Morris,CAN,LOST,2
+Boost National,Curling,Team,Men,11/16/17,Reid Carruthers,CAN,WON,9,John Epping,CAN,LOST,6
+Boost National,Curling,Team,Men,11/16/17,Kevin Koe,CAN,LOST,6,Jason Gunnlaugson,CAN,WON,8
+Boost National,Curling,Team,Men,11/16/17,Bruce Mouat,SCO,LOST,2,Mike McEwen,CAN,WON,7
+Boost National,Curling,Team,Men,11/16/17,Brad Gushue,CAN,WON,7,Greg Balsdon,CAN,LOST,6
+Boost National,Curling,Team,Men,11/16/17,Brad Jacobs,CAN,LOST,4,Kevin Koe,CAN,WON,6
+Boost National,Curling,Team,Men,11/16/17,Rui Liu,CHN,LOST,5,Pat Simmons,CAN,WON,7
+Boost National,Curling,Team,Men,11/16/17,William Lyburn,CAN,WON,8,Greg Drummond,SCO,LOST,7
+Boost National,Curling,Team,Men,11/17/17,John Epping,CAN,WON,4,Chang-Min Kim,KOR,LOST,1
+Boost National,Curling,Team,Men,11/17/17,Brad Jacobs,CAN,WON,7,William Lyburn,CAN,LOST,2
+Boost National,Curling,Team,Men,11/17/17,Reid Carruthers,CAN,WON,6,Pat Simmons,CAN,LOST,5
+Boost National,Curling,Team,Men,11/17/17,Brad Gushue,CAN,LOST,2,John Morris,CAN,WON,5
+Boost National,Curling,Team,Men,11/17/17,Greg Balsdon,CAN,WON,5,Mike McEwen,CAN,LOST,2
+Boost National,Curling,Team,Men,11/17/17,Jason Gunnlaugson,CAN,WON,10,Greg Drummond,SCO,LOST,7
+Boost National,Curling,Team,Men,11/17/17,Bruce Mouat,SCO,WON,8,Brad Jacobs,CAN,LOST,5
+Boost National,Curling,Team,Men,11/17/17,Pat Simmons,CAN,LOST,5,John Epping,CAN,WON,7
+Boost National,Curling,Team,Men,11/17/17,Mike McEwen,CAN,WON,9,Greg Balsdon,CAN,LOST,2
+Boost National,Curling,Team,Men,11/18/17,Jason Gunnlaugson,CAN,LOST,3,John Epping,CAN,WON,7
+Boost National,Curling,Team,Men,11/18/17,Chang-Min Kim,KOR,WON,6,Reid Carruthers,CAN,LOST,2
+Boost National,Curling,Team,Men,11/18/17,Brad Gushue,CAN,LOST,3,Mike McEwen,CAN,WON,4
+Boost National,Curling,Team,Men,11/18/17,Kevin Koe,CAN,LOST,1,Bruce Mouat,SCO,WON,7
+Boost National,Curling,Team,Men,11/18/17,John Epping,CAN,LOST,7,Chang-Min Kim,KOR,WON,8
+Boost National,Curling,Team,Men,11/18/17,Mike McEwen,CAN,LOST,4,Bruce Mouat,SCO,WON,6
+Boost National,Curling,Team,Men,11/19/17,Chang-Min Kim,KOR,LOST,4,Bruce Mouat,SCO,WON,9
+Boost National,Curling,Team,Women,11/14/17,Val Sweeting,CAN,WON,9,Binia Feltscher,SUI,LOST,5
+Boost National,Curling,Team,Women,11/14/17,Jennifer Jones,CAN,WON,7,Alina Paetz,SUI,LOST,0
+Boost National,Curling,Team,Women,11/14/17,Allison Flaxey,CAN,LOST,3,Bingyu Wang,CHN,WON,6
+Boost National,Curling,Team,Women,11/14/17,Rachel Homan,CAN,LOST,4,Tracy Fleury,CAN,WON,5
+Boost National,Curling,Team,Women,11/15/17,Julie Tippin,CAN,WON,6,Kelsey Rocque,CAN,LOST,4
+Boost National,Curling,Team,Women,11/15/17,Jacqueline Harrison,CAN,WON,7,Michelle Englot,CAN,LOST,4
+Boost National,Curling,Team,Women,11/15/17,Chelsea Carey,CAN,LOST,4,Binia Feltscher,SUI,WON,6
+Boost National,Curling,Team,Women,11/15/17,Alina Paetz,SUI,LOST,2,Casey Scheidegger,CAN,WON,7
+Boost National,Curling,Team,Women,11/15/17,Tracy Fleury,CAN,WON,8,Kerri Einarson,CAN,LOST,5
+Boost National,Curling,Team,Women,11/15/17,Bingyu Wang,CHN,LOST,3,Chelsea Carey,CAN,WON,7
+Boost National,Curling,Team,Women,11/15/17,Rachel Homan,CAN,WON,8,Jacqueline Harrison,CAN,LOST,4
+Boost National,Curling,Team,Women,11/15/17,Allison Flaxey,CAN,LOST,2,Val Sweeting,CAN,WON,3
+Boost National,Curling,Team,Women,11/15/17,Jennifer Jones,CAN,WON,7,Kelsey Rocque,CAN,LOST,3
+Boost National,Curling,Team,Women,11/15/17,Kerri Einarson,CAN,LOST,6,Michelle Englot,CAN,WON,8
+Boost National,Curling,Team,Women,11/16/17,Binia Feltscher,SUI,LOST,3,Allison Flaxey,CAN,WON,6
+Boost National,Curling,Team,Women,11/16/17,Alina Paetz,SUI,WON,7,Kelsey Rocque,CAN,LOST,4
+Boost National,Curling,Team,Women,11/16/17,Julie Tippin,CAN,LOST,4,Casey Scheidegger,CAN,WON,7
+Boost National,Curling,Team,Women,11/16/17,Jacqueline Harrison,CAN,LOST,5,Tracy Fleury,CAN,WON,7
+Boost National,Curling,Team,Women,11/16/17,Val Sweeting,CAN,WON,8,Bingyu Wang,CHN,LOST,4
+Boost National,Curling,Team,Women,11/16/17,Tracy Fleury,CAN,WON,7,Michelle Englot,CAN,LOST,4
+Boost National,Curling,Team,Women,11/16/17,Rachel Homan,CAN,WON,8,Kerri Einarson,CAN,LOST,1
+Boost National,Curling,Team,Women,11/16/17,Val Sweeting,CAN,WON,8,Chelsea Carey,CAN,LOST,0
+Boost National,Curling,Team,Women,11/16/17,Jennifer Jones,CAN,WON,6,Julie Tippin,CAN,LOST,3
+Boost National,Curling,Team,Women,11/16/17,Kelsey Rocque,CAN,LOST,6,Casey Scheidegger,CAN,WON,7
+Boost National,Curling,Team,Women,11/17/17,Binia Feltscher,SUI,WON,5,Bingyu Wang,CHN,LOST,4
+Boost National,Curling,Team,Women,11/17/17,Jacqueline Harrison,CAN,LOST,6,Kerri Einarson,CAN,WON,7
+Boost National,Curling,Team,Women,11/17/17,Alina Paetz,SUI,WON,9,Julie Tippin,CAN,LOST,7
+Boost National,Curling,Team,Women,11/17/17,Jennifer Jones,CAN,WON,8,Casey Scheidegger,CAN,LOST,4
+Boost National,Curling,Team,Women,11/17/17,Rachel Homan,CAN,WON,6,Michelle Englot,CAN,LOST,5
+Boost National,Curling,Team,Women,11/17/17,Chelsea Carey,CAN,WON,11,Allison Flaxey,CAN,LOST,5
+Boost National,Curling,Team,Women,11/18/17,Tracy Fleury,CAN,WON,9,Binia Feltscher,SUI,LOST,3
+Boost National,Curling,Team,Women,11/18/17,Rachel Homan,CAN,LOST,4,Casey Scheidegger,CAN,WON,7
+Boost National,Curling,Team,Women,11/18/17,Jennifer Jones,CAN,WON,7,Alina Paetz,SUI,LOST,4
+Boost National,Curling,Team,Women,11/18/17,Val Sweeting,CAN,LOST,3,Chelsea Carey,CAN,WON,5
+Boost National,Curling,Team,Women,11/18/17,Tracy Fleury,CAN,LOST,4,Casey Scheidegger,CAN,WON,7
+Boost National,Curling,Team,Women,11/18/17,Jennifer Jones,CAN,WON,6,Chelsea Carey,CAN,LOST,5
+Boost National,Curling,Team,Women,11/19/17,Casey Scheidegger,CAN,LOST,7,Jennifer Jones,CAN,WON,8
+Meridian Canadian Open,Curling,Team,Men,1/16/18,Brad Gushue,CAN,WON,9,Chang-Min Kim,KOR,LOST,4
+Meridian Canadian Open,Curling,Team,Men,1/16/18,Thomas Ulsrud,NOR,LOST,3,Peter De Cruz,SUI,WON,6
+Meridian Canadian Open,Curling,Team,Men,1/16/18,Brad Jacobs,CAN,WON,7,Rui Liu,CHN,LOST,3
+Meridian Canadian Open,Curling,Team,Men,1/16/18,Mike McEwen,CAN,WON,6,Team Bottcher,CAN,LOST,2
+Meridian Canadian Open,Curling,Team,Men,1/16/18,Niklas Edin,SWE,LOST,6,John Shuster,USA,WON,7
+Meridian Canadian Open,Curling,Team,Men,1/16/18,John Epping,CAN,WON,5,John Morris,CAN,LOST,3
+Meridian Canadian Open,Curling,Team,Men,1/17/18,Reid Carruthers,CAN,LOST,3,Jason Gunnlaugson,CAN,WON,9
+Meridian Canadian Open,Curling,Team,Men,1/17/18,Chang-Min Kim,KOR,LOST,2,Thomas Ulsrud,NOR,WON,5
+Meridian Canadian Open,Curling,Team,Men,1/17/18,Kevin Koe,CAN,LOST,4,Bruce Mouat,SCO,WON,6
+Meridian Canadian Open,Curling,Team,Men,1/17/18,Rui Liu,CHN,LOST,3,Team Bottcher,CAN,WON,6
+Meridian Canadian Open,Curling,Team,Men,1/17/18,Niklas Edin,SWE,WON,7,John Morris,CAN,LOST,4
+Meridian Canadian Open,Curling,Team,Men,1/17/18,Brad Gushue,CAN,LOST,3,Peter De Cruz,SUI,WON,5
+Meridian Canadian Open,Curling,Team,Men,1/17/18,John Shuster,USA,LOST,5,John Epping,CAN,WON,6
+Meridian Canadian Open,Curling,Team,Men,1/17/18,Brad Jacobs,CAN,WON,7,Mike McEwen,CAN,LOST,3
+Meridian Canadian Open,Curling,Team,Men,1/17/18,Bruce Mouat,SCO,LOST,4,Jason Gunnlaugson,CAN,WON,6
+Meridian Canadian Open,Curling,Team,Men,1/18/18,Kevin Koe,CAN,LOST,6,Reid Carruthers,CAN,WON,7
+Meridian Canadian Open,Curling,Team,Men,1/18/18,Thomas Ulsrud,NOR,LOST,2,Team Bottcher,CAN,WON,5
+Meridian Canadian Open,Curling,Team,Men,1/18/18,Peter De Cruz,SUI,LOST,3,Brad Jacobs,CAN,WON,6
+Meridian Canadian Open,Curling,Team,Men,1/18/18,John Epping,CAN,LOST,7,Jason Gunnlaugson,CAN,WON,8
+Meridian Canadian Open,Curling,Team,Men,1/18/18,Brad Gushue,CAN,LOST,3,Mike McEwen,CAN,WON,6
+Meridian Canadian Open,Curling,Team,Men,1/18/18,John Shuster,USA,LOST,5,Bruce Mouat,SCO,WON,8
+Meridian Canadian Open,Curling,Team,Men,1/18/18,Niklas Edin,SWE,LOST,4,Reid Carruthers,CAN,WON,8
+Meridian Canadian Open,Curling,Team,Men,1/18/18,Chang-Min Kim,KOR,WON,5,Rui Liu,CHN,LOST,4
+Meridian Canadian Open,Curling,Team,Men,1/18/18,Mike McEwen,CAN,WON,6,Bruce Mouat,SCO,LOST,1
+Meridian Canadian Open,Curling,Team,Men,1/18/18,John Morris,CAN,LOST,5,Kevin Koe,CAN,WON,6
+Meridian Canadian Open,Curling,Team,Men,1/19/18,Team Bottcher,CAN,WON,8,John Epping,CAN,LOST,1
+Meridian Canadian Open,Curling,Team,Men,1/19/18,Reid Carruthers,CAN,LOST,3,Peter De Cruz,SUI,WON,8
+Meridian Canadian Open,Curling,Team,Men,1/19/18,Chang-Min Kim,KOR,LOST,3,John Shuster,USA,WON,6
+Meridian Canadian Open,Curling,Team,Men,1/19/18,Kevin Koe,CAN,WON,7,Brad Gushue,CAN,LOST,6
+Meridian Canadian Open,Curling,Team,Men,1/19/18,Thomas Ulsrud,NOR,LOST,5,Niklas Edin,SWE,WON,6
+Meridian Canadian Open,Curling,Team,Men,1/19/18,John Shuster,USA,LOST,3,Reid Carruthers,CAN,WON,9
+Meridian Canadian Open,Curling,Team,Men,1/19/18,Kevin Koe,CAN,WON,7,John Epping,CAN,LOST,4
+Meridian Canadian Open,Curling,Team,Men,1/19/18,Niklas Edin,SWE,WON,8,Bruce Mouat,SCO,LOST,7
+Meridian Canadian Open,Curling,Team,Men,1/20/18,Brad Jacobs,CAN,WON,7,Reid Carruthers,CAN,LOST,3
+Meridian Canadian Open,Curling,Team,Men,1/20/18,Peter De Cruz,SUI,WON,7,Team Bottcher,CAN,LOST,6
+Meridian Canadian Open,Curling,Team,Men,1/20/18,Jason Gunnlaugson,CAN,LOST,3,Kevin Koe,CAN,WON,6
+Meridian Canadian Open,Curling,Team,Men,1/20/18,Mike McEwen,CAN,LOST,2,Niklas Edin,SWE,WON,3
+Meridian Canadian Open,Curling,Team,Men,1/20/18,Brad Jacobs,CAN,LOST,2,Peter De Cruz,SUI,WON,5
+Meridian Canadian Open,Curling,Team,Men,1/20/18,Kevin Koe,CAN,LOST,5,Niklas Edin,SWE,WON,6
+Meridian Canadian Open,Curling,Team,Men,1/21/18,Peter De Cruz,SUI,WON,5,Niklas Edin,SWE,LOST,3
+Meridian Canadian Open,Curling,Team,Women,1/16/18,Silvana Tirinzoni,SUI,LOST,4,Team Rocque,CAN,WON,8
+Meridian Canadian Open,Curling,Team,Women,1/16/18,Anna Hasselborg,SWE,WON,8,EunJung Kim,KOR,LOST,2
+Meridian Canadian Open,Curling,Team,Women,1/16/18,Chelsea Carey,CAN,LOST,4,Kerri Einarson,CAN,WON,6
+Meridian Canadian Open,Curling,Team,Women,1/16/18,Val Sweeting,CAN,LOST,2,Michelle Englot,CAN,WON,9
+Meridian Canadian Open,Curling,Team,Women,1/17/18,Casey Scheidegger,CAN,LOST,3,Allison Flaxey,CAN,WON,7
+Meridian Canadian Open,Curling,Team,Women,1/17/18,Alina Paetz,SUI,LOST,0,Nina Roth,USA,WON,8
+Meridian Canadian Open,Curling,Team,Women,1/17/18,EunJung Kim,KOR,LOST,1,Chelsea Carey,CAN,WON,9
+Meridian Canadian Open,Curling,Team,Women,1/17/18,Jennifer Jones,CAN,LOST,3,Darcy Robertson,CAN,WON,5
+Meridian Canadian Open,Curling,Team,Women,1/17/18,Rachel Homan,CAN,WON,7,Jamie Sinclair,USA,LOST,2
+Meridian Canadian Open,Curling,Team,Women,1/17/18,Team Rocque,CAN,LOST,3,Michelle Englot,CAN,WON,7
+Meridian Canadian Open,Curling,Team,Women,1/17/18,Anna Hasselborg,SWE,LOST,4,Kerri Einarson,CAN,WON,8
+Meridian Canadian Open,Curling,Team,Women,1/17/18,Rachel Homan,CAN,WON,7,Nina Roth,USA,LOST,1
+Meridian Canadian Open,Curling,Team,Women,1/17/18,Darcy Robertson,CAN,LOST,4,Allison Flaxey,CAN,WON,5
+Meridian Canadian Open,Curling,Team,Women,1/17/18,Silvana Tirinzoni,SUI,WON,6,Val Sweeting,CAN,LOST,5
+Meridian Canadian Open,Curling,Team,Women,1/17/18,Jamie Sinclair,USA,WON,9,Alina Paetz,SUI,LOST,2
+Meridian Canadian Open,Curling,Team,Women,1/18/18,Jennifer Jones,CAN,WON,5,Casey Scheidegger,CAN,LOST,4
+Meridian Canadian Open,Curling,Team,Women,1/18/18,Darcy Robertson,CAN,LOST,5,Team Rocque,CAN,WON,7
+Meridian Canadian Open,Curling,Team,Women,1/18/18,Anna Hasselborg,SWE,WON,7,Nina Roth,USA,LOST,4
+Meridian Canadian Open,Curling,Team,Women,1/18/18,Chelsea Carey,CAN,WON,9,Jamie Sinclair,USA,LOST,2
+Meridian Canadian Open,Curling,Team,Women,1/18/18,Allison Flaxey,CAN,WON,9,Michelle Englot,CAN,LOST,4
+Meridian Canadian Open,Curling,Team,Women,1/18/18,Kerri Einarson,CAN,LOST,3,Rachel Homan,CAN,WON,7
+Meridian Canadian Open,Curling,Team,Women,1/18/18,Jennifer Jones,CAN,WON,6,Silvana Tirinzoni,SUI,LOST,4
+Meridian Canadian Open,Curling,Team,Women,1/18/18,Team Rocque,CAN,WON,6,Anna Hasselborg,SWE,LOST,4
+Meridian Canadian Open,Curling,Team,Women,1/18/18,Casey Scheidegger,CAN,WON,6,Val Sweeting,CAN,LOST,4
+Meridian Canadian Open,Curling,Team,Women,1/18/18,EunJung Kim,KOR,WON,7,Alina Paetz,SUI,LOST,4
+Meridian Canadian Open,Curling,Team,Women,1/19/18,Jennifer Jones,CAN,WON,9,Kerri Einarson,CAN,LOST,3
+Meridian Canadian Open,Curling,Team,Women,1/19/18,Chelsea Carey,CAN,WON,8,Michelle Englot,CAN,LOST,1
+Meridian Canadian Open,Curling,Team,Women,1/19/18,Casey Scheidegger,CAN,LOST,4,Nina Roth,USA,WON,7
+Meridian Canadian Open,Curling,Team,Women,1/19/18,EunJung Kim,KOR,WON,8,Darcy Robertson,CAN,LOST,4
+Meridian Canadian Open,Curling,Team,Women,1/19/18,Silvana Tirinzoni,SUI,WON,7,Jamie Sinclair,USA,LOST,3
+Meridian Canadian Open,Curling,Team,Women,1/19/18,Nina Roth,USA,LOST,4,Michelle Englot,CAN,WON,6
+Meridian Canadian Open,Curling,Team,Women,1/19/18,EunJung Kim,KOR,WON,6,Kerri Einarson,CAN,LOST,3
+Meridian Canadian Open,Curling,Team,Women,1/19/18,Silvana Tirinzoni,SUI,WON,5,Anna Hasselborg,SWE,LOST,4
+Meridian Canadian Open,Curling,Team,Women,1/20/18,Rachel Homan,CAN,LOST,4,EunJung Kim,KOR,WON,7
+Meridian Canadian Open,Curling,Team,Women,1/20/18,Chelsea Carey,CAN,WON,8,Team Rocque,CAN,LOST,5
+Meridian Canadian Open,Curling,Team,Women,1/20/18,Allison Flaxey,CAN,LOST,5,Michelle Englot,CAN,WON,6
+Meridian Canadian Open,Curling,Team,Women,1/20/18,Jennifer Jones,CAN,WON,6,Silvana Tirinzoni,SUI,LOST,3
+Meridian Canadian Open,Curling,Team,Women,1/20/18,EunJung Kim,KOR,LOST,4,Chelsea Carey,CAN,WON,6
+Meridian Canadian Open,Curling,Team,Women,1/20/18,Michelle Englot,CAN,WON,10,Jennifer Jones,CAN,LOST,4
+Meridian Canadian Open,Curling,Team,Women,1/21/18,Chelsea Carey,CAN,WON,10,Michelle Englot,CAN,LOST,5
+Princess Auto Elite 10,Curling,Team,Men,3/15/18,John Epping,CAN,WON,4,Niklas Edin,SWE,LOST,1
+Princess Auto Elite 10,Curling,Team,Men,3/15/18,Jason Gunnlaugson,CAN,LOST,1,John Shuster,USA,WON,4
+Princess Auto Elite 10,Curling,Team,Men,3/15/18,Reid Carruthers,CAN,WON,4,Glenn Howard,CAN,LOST,3
+Princess Auto Elite 10,Curling,Team,Men,3/15/18,Glenn Howard,CAN,WON,3,Brad Gushue,CAN,LOST,2
+Princess Auto Elite 10,Curling,Team,Men,3/15/18,Kevin Koe,CAN,LOST,1,Mike McEwen,CAN,WON,3
+Princess Auto Elite 10,Curling,Team,Men,3/15/18,John Shuster,USA,LOST,1,Brad Jacobs,CAN,WON,4
+Princess Auto Elite 10,Curling,Team,Men,3/15/18,Mike McEwen,CAN,WON,5,Jason Gunnlaugson,CAN,LOST,0
+Princess Auto Elite 10,Curling,Team,Men,3/15/18,John Epping,CAN,WON,4,Reid Carruthers,CAN,LOST,1
+Princess Auto Elite 10,Curling,Team,Men,3/15/18,Niklas Edin,SWE,LOST,3,Brad Gushue,CAN,WON,4
+Princess Auto Elite 10,Curling,Team,Men,3/16/18,Niklas Edin,SWE,WON,4,Glenn Howard,CAN,LOST,3
+Princess Auto Elite 10,Curling,Team,Men,3/16/18,Mike McEwen,CAN,WON,3,Brad Jacobs,CAN,LOST,2
+Princess Auto Elite 10,Curling,Team,Men,3/16/18,Jason Gunnlaugson,CAN,LOST,2,Kevin Koe,CAN,WON,3
+Princess Auto Elite 10,Curling,Team,Men,3/16/18,Kevin Koe,CAN,WON,4,Brad Jacobs,CAN,LOST,2
+Princess Auto Elite 10,Curling,Team,Men,3/16/18,Brad Gushue,CAN,WON,4,John Epping,CAN,LOST,2
+Princess Auto Elite 10,Curling,Team,Men,3/16/18,John Shuster,USA,LOST,1,Mike McEwen,CAN,WON,5
+Princess Auto Elite 10,Curling,Team,Men,3/16/18,Reid Carruthers,CAN,LOST,3,Niklas Edin,SWE,WON,4
+Princess Auto Elite 10,Curling,Team,Men,3/16/18,Glenn Howard,CAN,WON,3,John Epping,CAN,LOST,2
+Princess Auto Elite 10,Curling,Team,Men,3/16/18,Brad Gushue,CAN,WON,3,Reid Carruthers,CAN,LOST,0
+Princess Auto Elite 10,Curling,Team,Men,3/16/18,John Shuster,USA,LOST,1,Kevin Koe,CAN,WON,4
+Princess Auto Elite 10,Curling,Team,Men,3/16/18,Brad Jacobs,CAN,WON,2,Jason Gunnlaugson,CAN,LOST,0
+Princess Auto Elite 10,Curling,Team,Men,3/17/18,Niklas Edin,SWE,LOST,0,John Epping,CAN,WON,4
+Princess Auto Elite 10,Curling,Team,Men,3/17/18,Glenn Howard,CAN,WON,3,Brad Jacobs,CAN,LOST,1
+Princess Auto Elite 10,Curling,Team,Men,3/17/18,Brad Gushue,CAN,WON,4,John Epping,CAN,LOST,2
+Princess Auto Elite 10,Curling,Team,Men,3/17/18,Mike McEwen,CAN,WON,4,Glenn Howard,CAN,LOST,3
+Princess Auto Elite 10,Curling,Team,Men,3/17/18,Kevin Koe,CAN,LOST,1,Brad Gushue,CAN,WON,2
+Princess Auto Elite 10,Curling,Team,Men,3/18/18,Mike McEwen,CAN,WON,4,Brad Gushue,CAN,LOST,1
+Players' Championship,Curling,Team,Men,4/10/18,Reid Carruthers,CAN,LOST,5,John Epping,CAN,WON,6
+Players' Championship,Curling,Team,Men,4/10/18,Brad Jacobs,CAN,LOST,5,Jason Gunnlaugson,CAN,WON,7
+Players' Championship,Curling,Team,Men,4/11/18,Mike McEwen,CAN,LOST,3,Bruce Mouat,SCO,WON,6
+Players' Championship,Curling,Team,Men,4/11/18,Brad Gushue,CAN,WON,8,Brendan Bottcher,CAN,LOST,4
+Players' Championship,Curling,Team,Men,4/11/18,Brad Jacobs,CAN,WON,7,Kyle Smith,SCO,LOST,4
+Players' Championship,Curling,Team,Men,4/11/18,Kevin Koe,CAN,WON,7,John Epping,CAN,LOST,3
+Players' Championship,Curling,Team,Men,4/11/18,Niklas Edin,SWE,WON,6,Jason Gunnlaugson,CAN,LOST,4
+Players' Championship,Curling,Team,Men,4/11/18,John Epping,CAN,LOST,1,Brendan Bottcher,CAN,WON,7
+Players' Championship,Curling,Team,Men,4/11/18,Mike McEwen,CAN,LOST,6,Niklas Edin,SWE,WON,9
+Players' Championship,Curling,Team,Men,4/11/18,Reid Carruthers,CAN,LOST,5,John Shuster,USA,WON,8
+Players' Championship,Curling,Team,Men,4/11/18,Kyle Smith,SCO,WON,8,Bruce Mouat,SCO,LOST,3
+Players' Championship,Curling,Team,Men,4/11/18,Brad Gushue,CAN,LOST,8,Kevin Koe,CAN,WON,10
+Players' Championship,Curling,Team,Men,4/12/18,Niklas Edin,SWE,LOST,5,Kyle Smith,SCO,WON,7
+Players' Championship,Curling,Team,Men,4/12/18,Brad Jacobs,CAN,LOST,1,Bruce Mouat,SCO,WON,6
+Players' Championship,Curling,Team,Men,4/12/18,Mike McEwen,CAN,WON,8,Jason Gunnlaugson,CAN,LOST,3
+Players' Championship,Curling,Team,Men,4/12/18,Brad Gushue,CAN,WON,7,John Shuster,USA,LOST,2
+Players' Championship,Curling,Team,Men,4/12/18,Jason Gunnlaugson,CAN,WON,8,Bruce Mouat,SCO,LOST,4
+Players' Championship,Curling,Team,Men,4/12/18,John Shuster,USA,LOST,5,Kevin Koe,CAN,WON,8
+Players' Championship,Curling,Team,Men,4/12/18,Brad Gushue,CAN,WON,5,John Epping,CAN,LOST,4
+Players' Championship,Curling,Team,Men,4/12/18,Reid Carruthers,CAN,WON,9,Brendan Bottcher,CAN,LOST,4
+Players' Championship,Curling,Team,Men,4/12/18,Brad Jacobs,CAN,LOST,2,Mike McEwen,CAN,WON,5
+Players' Championship,Curling,Team,Men,4/13/18,Niklas Edin,SWE,WON,6,Bruce Mouat,SCO,LOST,3
+Players' Championship,Curling,Team,Men,4/13/18,Kyle Smith,SCO,LOST,3,Jason Gunnlaugson,CAN,WON,5
+Players' Championship,Curling,Team,Men,4/13/18,Reid Carruthers,CAN,LOST,5,Kevin Koe,CAN,WON,6
+Players' Championship,Curling,Team,Men,4/13/18,John Shuster,USA,WON,9,Brendan Bottcher,CAN,LOST,4
+Players' Championship,Curling,Team,Men,4/13/18,Brad Gushue,CAN,WON,7,Reid Carruthers,CAN,LOST,6
+Players' Championship,Curling,Team,Men,4/13/18,Brad Jacobs,CAN,LOST,4,Niklas Edin,SWE,WON,5
+Players' Championship,Curling,Team,Men,4/13/18,Kevin Koe,CAN,WON,6,Brendan Bottcher,CAN,LOST,4
+Players' Championship,Curling,Team,Men,4/13/18,John Epping,CAN,WON,8,John Shuster,USA,LOST,2
+Players' Championship,Curling,Team,Men,4/13/18,Mike McEwen,CAN,WON,7,Kyle Smith,SCO,LOST,4
+Players' Championship,Curling,Team,Men,4/13/18,John Epping,CAN,WON,6,John Shuster,USA,LOST,3
+Players' Championship,Curling,Team,Men,4/14/18,Kevin Koe,CAN,WON,5,John Epping,CAN,LOST,4
+Players' Championship,Curling,Team,Men,4/14/18,Jason Gunnlaugson,CAN,LOST,3,Mike McEwen,CAN,WON,9
+Players' Championship,Curling,Team,Men,4/14/18,Niklas Edin,SWE,WON,6,Kyle Smith,SCO,LOST,3
+Players' Championship,Curling,Team,Men,4/14/18,Brad Gushue,CAN,WON,6,Bruce Mouat,SCO,LOST,2
+Players' Championship,Curling,Team,Men,4/14/18,Kevin Koe,CAN,WON,5,Mike McEwen,CAN,LOST,4
+Players' Championship,Curling,Team,Men,4/14/18,Niklas Edin,SWE,WON,6,Brad Gushue,CAN,LOST,5
+Players' Championship,Curling,Team,Men,4/15/18,Kevin Koe,CAN,WON,6,Niklas Edin,SWE,LOST,2
+Players' Championship,Curling,Team,Women,4/10/18,Rachel Homan,CAN,LOST,4,Nina Roth,USA,WON,6
+Players' Championship,Curling,Team,Women,4/10/18,Jennifer Jones,CAN,WON,5,Eve Muirhead,SCO,LOST,4
+Players' Championship,Curling,Team,Women,4/11/18,Satsuki Fujisawa,JPN,LOST,1,Jamie Sinclair,USA,WON,7
+Players' Championship,Curling,Team,Women,4/11/18,EunJung Kim,KOR,LOST,8,Laura Crocker,CAN,WON,10
+Players' Championship,Curling,Team,Women,4/11/18,Chelsea Carey,CAN,LOST,7,Silvana Tirinzoni,SUI,WON,8
+Players' Championship,Curling,Team,Women,4/11/18,Anna Hasselborg,SWE,WON,6,Kerri Einarson,CAN,LOST,1
+Players' Championship,Curling,Team,Women,4/11/18,Jennifer Jones,CAN,WON,9,Nina Roth,USA,LOST,2
+Players' Championship,Curling,Team,Women,4/11/18,Chelsea Carey,CAN,WON,10,Satsuki Fujisawa,JPN,LOST,2
+Players' Championship,Curling,Team,Women,4/11/18,Silvana Tirinzoni,SUI,LOST,5,Jamie Sinclair,USA,WON,6
+Players' Championship,Curling,Team,Women,4/11/18,Eve Muirhead,SCO,WON,7,EunJung Kim,KOR,LOST,4
+Players' Championship,Curling,Team,Women,4/11/18,Rachel Homan,CAN,LOST,3,Laura Crocker,CAN,WON,9
+Players' Championship,Curling,Team,Women,4/12/18,Rachel Homan,CAN,LOST,5,EunJung Kim,KOR,WON,6
+Players' Championship,Curling,Team,Women,4/12/18,Jennifer Jones,CAN,WON,8,Team Rocque,CAN,LOST,7
+Players' Championship,Curling,Team,Women,4/12/18,Eve Muirhead,SCO,WON,6,Nina Roth,USA,LOST,4
+Players' Championship,Curling,Team,Women,4/12/18,Kerri Einarson,CAN,LOST,3,Satsuki Fujisawa,JPN,WON,5
+Players' Championship,Curling,Team,Women,4/12/18,Anna Hasselborg,SWE,WON,7,Jamie Sinclair,USA,LOST,4
+Players' Championship,Curling,Team,Women,4/12/18,Eve Muirhead,SCO,WON,8,Team Rocque,CAN,LOST,4
+Players' Championship,Curling,Team,Women,4/12/18,Anna Hasselborg,SWE,WON,6,Silvana Tirinzoni,SUI,LOST,2
+Players' Championship,Curling,Team,Women,4/12/18,Jennifer Jones,CAN,WON,8,Rachel Homan,CAN,LOST,4
+Players' Championship,Curling,Team,Women,4/12/18,Nina Roth,USA,WON,6,EunJung Kim,KOR,LOST,3
+Players' Championship,Curling,Team,Women,4/12/18,Chelsea Carey,CAN,LOST,4,Kerri Einarson,CAN,WON,7
+Players' Championship,Curling,Team,Women,4/13/18,Chelsea Carey,CAN,LOST,3,Jamie Sinclair,USA,WON,7
+Players' Championship,Curling,Team,Women,4/13/18,Jennifer Jones,CAN,WON,8,EunJung Kim,KOR,LOST,2
+Players' Championship,Curling,Team,Women,4/13/18,Kerri Einarson,CAN,WON,7,Silvana Tirinzoni,SUI,LOST,3
+Players' Championship,Curling,Team,Women,4/13/18,Team Rocque,CAN,LOST,5,Nina Roth,USA,WON,7
+Players' Championship,Curling,Team,Women,4/13/18,Anna Hasselborg,SWE,LOST,4,Satsuki Fujisawa,JPN,WON,7
+Players' Championship,Curling,Team,Women,4/13/18,Silvana Tirinzoni,SUI,WON,8,Satsuki Fujisawa,JPN,LOST,2
+Players' Championship,Curling,Team,Women,4/13/18,Jamie Sinclair,USA,LOST,6,Kerri Einarson,CAN,WON,7
+Players' Championship,Curling,Team,Women,4/13/18,Anna Hasselborg,SWE,WON,7,Chelsea Carey,CAN,LOST,3
+Players' Championship,Curling,Team,Women,4/13/18,Rachel Homan,CAN,LOST,3,Eve Muirhead,SCO,WON,8
+Players' Championship,Curling,Team,Women,4/14/18,Team Rocque,CAN,LOST,3,Satsuki Fujisawa,JPN,WON,8
+Players' Championship,Curling,Team,Women,4/14/18,Jennifer Jones,CAN,WON,4,Satsuki Fujisawa,JPN,LOST,2
+Players' Championship,Curling,Team,Women,4/14/18,Kerri Einarson,CAN,WON,9,Nina Roth,USA,LOST,8
+Players' Championship,Curling,Team,Women,4/14/18,Eve Muirhead,SCO,LOST,5,Silvana Tirinzoni,SUI,WON,8
+Players' Championship,Curling,Team,Women,4/14/18,Anna Hasselborg,SWE,LOST,3,Jamie Sinclair,USA,WON,5
+Players' Championship,Curling,Team,Women,4/14/18,Jennifer Jones,CAN,WON,7,Kerri Einarson,CAN,LOST,5
+Players' Championship,Curling,Team,Women,4/14/18,Silvana Tirinzoni,SUI,LOST,3,Jamie Sinclair,USA,WON,4
+Players' Championship,Curling,Team,Women,4/15/18,Jennifer Jones,CAN,LOST,2,Jamie Sinclair,USA,WON,7
+Humpty's Champions Cup,Curling,Team,Men,4/24/18,Colton Flasch,CAN,WON,7,Marc Pfister,SUI,LOST,4
+Humpty's Champions Cup,Curling,Team,Men,4/24/18,Kevin Koe,CAN,LOST,3,Jason Gunnlaugson,CAN,WON,6
+Humpty's Champions Cup,Curling,Team,Men,4/25/18,Brad Jacobs,CAN,LOST,3,Team Persinger,WA,WON,5
+Humpty's Champions Cup,Curling,Team,Men,4/25/18,Niklas Edin,SWE,WON,5,Marc Pfister,SUI,LOST,4
+Humpty's Champions Cup,Curling,Team,Men,4/25/18,Jason Gunnlaugson,CAN,WON,8,Kurt Balderston,CAN,LOST,3
+Humpty's Champions Cup,Curling,Team,Men,4/25/18,Bruce Mouat,SCO,WON,9,Brendan Bottcher,CAN,LOST,8
+Humpty's Champions Cup,Curling,Team,Men,4/25/18,Brad Gushue,CAN,WON,8,Tyler Tardi,CAN,LOST,3
+Humpty's Champions Cup,Curling,Team,Men,4/25/18,Mike McEwen,CAN,LOST,4,Glenn Howard,CAN,WON,10
+Humpty's Champions Cup,Curling,Team,Men,4/25/18,Brad Jacobs,CAN,WON,10,Reid Carruthers,CAN,LOST,5
+Humpty's Champions Cup,Curling,Team,Men,4/25/18,Kevin Koe,CAN,WON,6,Kurt Balderston,CAN,LOST,5
+Humpty's Champions Cup,Curling,Team,Men,4/25/18,Bruce Mouat,SCO,WON,7,Colton Flasch,CAN,LOST,1
+Humpty's Champions Cup,Curling,Team,Men,4/26/18,Team Persinger,WA,LOST,4,Tyler Tardi,CAN,WON,5
+Humpty's Champions Cup,Curling,Team,Men,4/26/18,Brendan Bottcher,CAN,WON,8,Marc Pfister,SUI,LOST,2
+Humpty's Champions Cup,Curling,Team,Men,4/26/18,Kurt Balderston,CAN,LOST,3,Mike McEwen,CAN,WON,8
+Humpty's Champions Cup,Curling,Team,Men,4/26/18,Reid Carruthers,CAN,LOST,2,Team Persinger,WA,WON,7
+Humpty's Champions Cup,Curling,Team,Men,4/26/18,Colton Flasch,CAN,LOST,5,Brendan Bottcher,CAN,WON,6
+Humpty's Champions Cup,Curling,Team,Men,4/26/18,Brad Gushue,CAN,WON,5,Brad Jacobs,CAN,LOST,4
+Humpty's Champions Cup,Curling,Team,Men,4/26/18,Niklas Edin,SWE,LOST,7,Bruce Mouat,SCO,WON,10
+Humpty's Champions Cup,Curling,Team,Men,4/26/18,Kevin Koe,CAN,WON,5,Glenn Howard,CAN,LOST,3
+Humpty's Champions Cup,Curling,Team,Men,4/26/18,Jason Gunnlaugson,CAN,LOST,3,Mike McEwen,CAN,WON,5
+Humpty's Champions Cup,Curling,Team,Men,4/27/18,Glenn Howard,CAN,WON,6,Kurt Balderston,CAN,LOST,5
+Humpty's Champions Cup,Curling,Team,Men,4/27/18,Niklas Edin,SWE,LOST,3,Colton Flasch,CAN,WON,5
+Humpty's Champions Cup,Curling,Team,Men,4/27/18,Bruce Mouat,SCO,WON,6,Marc Pfister,SUI,LOST,2
+Humpty's Champions Cup,Curling,Team,Men,4/27/18,Reid Carruthers,CAN,WON,8,Tyler Tardi,CAN,LOST,4
+Humpty's Champions Cup,Curling,Team,Men,4/27/18,Brad Gushue,CAN,WON,7,Team Persinger,WA,LOST,2
+Humpty's Champions Cup,Curling,Team,Men,4/27/18,Niklas Edin,SWE,LOST,5,Brendan Bottcher,CAN,WON,6
+Humpty's Champions Cup,Curling,Team,Men,4/27/18,Jason Gunnlaugson,CAN,LOST,5,Glenn Howard,CAN,WON,7
+Humpty's Champions Cup,Curling,Team,Men,4/27/18,Brad Gushue,CAN,WON,7,Reid Carruthers,CAN,LOST,3
+Humpty's Champions Cup,Curling,Team,Men,4/27/18,Kevin Koe,CAN,WON,5,Mike McEwen,CAN,LOST,2
+Humpty's Champions Cup,Curling,Team,Men,4/27/18,Tyler Tardi,CAN,LOST,0,Brad Jacobs,CAN,WON,9
+Humpty's Champions Cup,Curling,Team,Men,4/28/18,Brad Jacobs,CAN,LOST,3,Jason Gunnlaugson,CAN,WON,4
+Humpty's Champions Cup,Curling,Team,Men,4/28/18,Colton Flasch,CAN,LOST,3,Mike McEwen,CAN,WON,6
+Humpty's Champions Cup,Curling,Team,Men,4/28/18,Brad Gushue,CAN,WON,4,Jason Gunnlaugson,CAN,LOST,2
+Humpty's Champions Cup,Curling,Team,Men,4/28/18,Kevin Koe,CAN,WON,5,Brendan Bottcher,CAN,LOST,2
+Humpty's Champions Cup,Curling,Team,Men,4/28/18,Bruce Mouat,SCO,WON,7,Mike McEwen,CAN,LOST,6
+Humpty's Champions Cup,Curling,Team,Men,4/28/18,Glenn Howard,CAN,WON,7,Team Persinger,WA,LOST,6
+Humpty's Champions Cup,Curling,Team,Men,4/28/18,Brad Gushue,CAN,WON,7,Kevin Koe,CAN,LOST,5
+Humpty's Champions Cup,Curling,Team,Men,4/28/18,Bruce Mouat,SCO,LOST,5,Glenn Howard,CAN,WON,9
+Humpty's Champions Cup,Curling,Team,Men,4/29/18,Brad Gushue,CAN,WON,8,Glenn Howard,CAN,LOST,2
+Humpty's Champions Cup,Curling,Team,Women,4/24/18,Anna Hasselborg,SWE,LOST,3,Jamie Sinclair,USA,WON,4
+Humpty's Champions Cup,Curling,Team,Women,4/24/18,Chelsea Carey,CAN,WON,7,Team Fujisawa,JPN,LOST,2
+Humpty's Champions Cup,Curling,Team,Women,4/24/18,Eve Muirhead,SCO,WON,8,Delia DeJong,CAN,LOST,2
+Humpty's Champions Cup,Curling,Team,Women,4/25/18,Kerri Einarson,CAN,WON,7,Val Sweeting,CAN,LOST,2
+Humpty's Champions Cup,Curling,Team,Women,4/25/18,Binia Feltscher,SUI,WON,6,Kristen MacDiarmid,CAN,LOST,4
+Humpty's Champions Cup,Curling,Team,Women,4/25/18,Silvana Tirinzoni,SUI,WON,6,Kaitlyn Jones,CAN,LOST,2
+Humpty's Champions Cup,Curling,Team,Women,4/25/18,Alina Paetz,SUI,LOST,5,Delia DeJong,CAN,WON,6
+Humpty's Champions Cup,Curling,Team,Women,4/25/18,Eve Muirhead,SCO,WON,8,Team Fujisawa,JPN,LOST,2
+Humpty's Champions Cup,Curling,Team,Women,4/25/18,Rachel Homan,CAN,LOST,4,Jamie Sinclair,USA,WON,5
+Humpty's Champions Cup,Curling,Team,Women,4/25/18,Jennifer Jones,CAN,WON,8,Val Sweeting,CAN,LOST,1
+Humpty's Champions Cup,Curling,Team,Women,4/25/18,Chelsea Carey,CAN,LOST,2,Alina Paetz,SUI,WON,8
+Humpty's Champions Cup,Curling,Team,Women,4/25/18,Kerri Einarson,CAN,WON,9,Kaitlyn Jones,CAN,LOST,3
+Humpty's Champions Cup,Curling,Team,Women,4/25/18,Anna Hasselborg,SWE,WON,6,Binia Feltscher,SUI,LOST,4
+Humpty's Champions Cup,Curling,Team,Women,4/26/18,Jamie Sinclair,USA,WON,3,Kristen MacDiarmid,CAN,LOST,1
+Humpty's Champions Cup,Curling,Team,Women,4/26/18,Rachel Homan,CAN,WON,5,Binia Feltscher,SUI,LOST,2
+Humpty's Champions Cup,Curling,Team,Women,4/26/18,Jennifer Jones,CAN,LOST,2,Silvana Tirinzoni,SUI,WON,7
+Humpty's Champions Cup,Curling,Team,Women,4/26/18,Val Sweeting,CAN,WON,7,Kaitlyn Jones,CAN,LOST,2
+Humpty's Champions Cup,Curling,Team,Women,4/26/18,Team Fujisawa,JPN,LOST,4,Delia DeJong,CAN,WON,7
+Humpty's Champions Cup,Curling,Team,Women,4/26/18,Chelsea Carey,CAN,WON,8,Delia DeJong,CAN,LOST,7
+Humpty's Champions Cup,Curling,Team,Women,4/26/18,Anna Hasselborg,SWE,WON,6,Rachel Homan,CAN,LOST,2
+Humpty's Champions Cup,Curling,Team,Women,4/26/18,Alina Paetz,SUI,LOST,3,Eve Muirhead,SCO,WON,8
+Humpty's Champions Cup,Curling,Team,Women,4/26/18,Kerri Einarson,CAN,LOST,4,Silvana Tirinzoni,SUI,WON,6
+Humpty's Champions Cup,Curling,Team,Women,4/27/18,Jennifer Jones,CAN,WON,8,Kaitlyn Jones,CAN,LOST,7
+Humpty's Champions Cup,Curling,Team,Women,4/27/18,Anna Hasselborg,SWE,WON,7,Kristen MacDiarmid,CAN,LOST,5
+Humpty's Champions Cup,Curling,Team,Women,4/27/18,Jamie Sinclair,USA,WON,10,Binia Feltscher,SUI,LOST,5
+Humpty's Champions Cup,Curling,Team,Women,4/27/18,Team Fujisawa,JPN,LOST,5,Alina Paetz,SUI,WON,7
+Humpty's Champions Cup,Curling,Team,Women,4/27/18,Silvana Tirinzoni,SUI,LOST,5,Val Sweeting,CAN,WON,6
+Humpty's Champions Cup,Curling,Team,Women,4/27/18,Jennifer Jones,CAN,LOST,4,Kerri Einarson,CAN,WON,7
+Humpty's Champions Cup,Curling,Team,Women,4/27/18,Chelsea Carey,CAN,WON,7,Eve Muirhead,SCO,LOST,6
+Humpty's Champions Cup,Curling,Team,Women,4/27/18,Rachel Homan,CAN,WON,6,Kristen MacDiarmid,CAN,LOST,4
+Humpty's Champions Cup,Curling,Team,Women,4/27/18,Delia DeJong,CAN,LOST,3,Val Sweeting,CAN,WON,4
+Humpty's Champions Cup,Curling,Team,Women,4/27/18,Rachel Homan,CAN,WON,8,Alina Paetz,SUI,LOST,7
+Humpty's Champions Cup,Curling,Team,Women,4/28/18,Jennifer Jones,CAN,WON,10,Val Sweeting,CAN,LOST,4
+Humpty's Champions Cup,Curling,Team,Women,4/28/18,Jamie Sinclair,USA,LOST,3,Rachel Homan,CAN,WON,6
+Humpty's Champions Cup,Curling,Team,Women,4/28/18,Anna Hasselborg,SWE,LOST,3,Eve Muirhead,SCO,WON,4
+Humpty's Champions Cup,Curling,Team,Women,4/28/18,Silvana Tirinzoni,SUI,LOST,5,Jennifer Jones,CAN,WON,6
+Humpty's Champions Cup,Curling,Team,Women,4/28/18,Kerri Einarson,CAN,WON,5,Chelsea Carey,CAN,LOST,3
+Humpty's Champions Cup,Curling,Team,Women,4/28/18,Rachel Homan,CAN,WON,9,Eve Muirhead,SCO,LOST,6
+Humpty's Champions Cup,Curling,Team,Women,4/28/18,Jennifer Jones,CAN,LOST,4,Kerri Einarson,CAN,WON,6
+Humpty's Champions Cup,Curling,Team,Women,4/29/18,Rachel Homan,CAN,WON,7,Kerri Einarson,CAN,LOST,6

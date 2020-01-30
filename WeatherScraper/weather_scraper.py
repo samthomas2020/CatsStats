@@ -101,7 +101,7 @@ def update_csv(days, city):
         fields.append(j["day"]["temperature"])
         fields.append(j["day"]["precipPct"])
 
-    with open(city + '_weather_data.csv', 'a') as f:
+    with open('~/CatsStats/' + city + '_weather_data.csv', 'a') as f:
         writer = csv.writer(f)
         writer.writerow(fields)
 
@@ -124,17 +124,19 @@ def job():
         update_csv(day, zip_codes[code])
 
 def main():
-    global zip_codes
-    for city in zip_codes.values():
-        with open(city + '_weather_data.csv', 'w') as f:
-            writer = csv.writer(f)
-            writer.writerow(['timestamp', 'day_1_temp', 'day_1_precip', 'day_2_temp', 'day_2_precip', 'day_3_temp', 'day_3_precip', 'day_4_temp', 'day_4_precip', 'day_5_temp', 'day_5_precip', 'day_6_temp', 'day_6_precip', 'day_7_temp', 'day_7_precip', 'day_8_temp', 'day_8_precip', 'day_9_temp', 'day_9_precip', 'day_10_temp', 'day_10_precip'])
+    # global zip_codes
+    # for city in zip_codes.values():
+    #     with open(city + '_weather_data.csv', 'w') as f:
+    #         writer = csv.writer(f)
+    #         writer.writerow(['timestamp', 'day_1_temp', 'day_1_precip', 'day_2_temp', 'day_2_precip', 'day_3_temp', 'day_3_precip', 'day_4_temp', 'day_4_precip', 'day_5_temp', 'day_5_precip', 'day_6_temp', 'day_6_precip', 'day_7_temp', 'day_7_precip', 'day_8_temp', 'day_8_precip', 'day_9_temp', 'day_9_precip', 'day_10_temp', 'day_10_precip'])
+    #
+    # schedule.every().day.at("00:00").do(job)
+    #
+    # while True:
+    #     schedule.run_pending()
+    #     time.sleep(60) # wait one minute
 
-    schedule.every().day.at("00:00").do(job)
-
-    while True:
-        schedule.run_pending()
-        time.sleep(60) # wait one minute
+    job()
 
 if __name__ == '__main__':
     main()
